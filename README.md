@@ -1,7 +1,7 @@
-#U.S. National Archives Digital Preservation Framework
+# U.S. National Archives Digital Preservation Framework
 The National Archives and Records Administration is seeking public comment and discussion on our Digital Preservation Framework, which consists of a Risk and Prioritization Matrix and 15 File Format Preservation Action Plans. The public is encouraged to join the discussion, September 16 through November 1, 2019, here on GitHub.
  
-##Background
+## Background
 The National Archives 2018–2022 Strategic Plan embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, we must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
  
 Digital preservation is critical to this work. It becomes even more important because of the June 2019 direction [(M-19-21, Transition to Electronic Records)](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-21.pdf) to Federal agencies to transition business processes and recordkeeping to a fully electronic environment and to end the National Archives’ acceptance of paper records by December 31, 2022.
@@ -12,7 +12,7 @@ To date, NARA holds about 1.5 billion files representing more than 350 file form
  
 We are posting these documents because we want to share what we are doing, and because we need your help.  
  
-##The NARA Risk and Prioritization Matrix
+## The NARA Risk and Prioritization Matrix
  
 We use the Risk and Prioritization Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we’ll get in the future. By answering questions related to the ability to preserve and sustain a file format, we generate a numeric risk score. 
  
@@ -34,7 +34,7 @@ We are sharing our current completed matrix, as a template for its use by any in
  
 For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: https://osf.io/ctw3g/. 
  
-##File Format Preservation Action Plans
+## File Format Preservation Action Plans
  
 We are also sharing our recently completed draft File Format Preservation Action Plans. 
  
@@ -68,7 +68,7 @@ Each plan contains a list of “Essential Characteristics,” also known as “S
 * NARA Transfer Guidance for this record type
 * Identification of formats often provided to researchers through reference requests and through the National Archives Catalog.
  
-##How Can You Help?
+## How Can You Help?
  
 We are sharing these documents to be transparent about our approach to digital preservation and to solicit input from Federal agencies, records managers, archivists, digital professionals, researchers, private industry, other stakeholders and allied professionals, and members of the public to help us identify ways we can improve them. In particular, we are hoping to get feedback on the following topics:
  
