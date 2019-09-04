@@ -32,13 +32,13 @@ For both the Risk and Prioritization, the lower the number, the greater the risk
  
 We are sharing our current completed matrix, as a template for its use by any interested organizations.
  
-For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: [https://osf.io/ctw3g/]. 
+For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: https://osf.io/ctw3g/. 
  
 ##File Format Preservation Action Plans
  
 We are also sharing our recently completed draft File Format Preservation Action Plans. 
  
-These plans correspond to the record types in the NARA Transfer Guidance, which outlines Preferred and Acceptable file formats for the transfer of electronic records from agencies:  [https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html]. 
+These plans correspond to the record types in the NARA Transfer Guidance, which outlines Preferred and Acceptable file formats for the transfer of electronic records from agencies:  https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html. 
  
 They 15 records types are:
  
