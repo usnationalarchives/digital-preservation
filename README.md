@@ -79,7 +79,7 @@ We are sharing these documents to be transparent about our approach to digital p
 * What can you suggest in terms of appropriate public access versions of the formats?
 * Are there other formats we haven’t identified that need plans?
  
-Please use the discussion feature in this site (insert or link to contributing.md instructions) to leave a specific comment or question or to just start a discussion. NARA staff will respond as quickly as they can.
+Please use the [issues feature](https://github.com/usnationalarchives/digital-preservation/issues) on this site to leave a specific comment or question or to just start a discussion. You can read more about how to contribute [here](https://github.com/usnationalarchives/digital-preservation/blob/master/CONTRIBUTING.md). NARA staff will respond as quickly as they can.
  
 The Digital Preservation Framework documents will be open for comment until November 1, 2019. After that date, we will take all the feedback and update the matrix and plans, incorporating what you've told us. Then final versions will be released publicly. 
  
