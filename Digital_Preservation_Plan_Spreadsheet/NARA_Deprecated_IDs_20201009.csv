@@ -1,0 +1,8 @@
+NARA Format ID,Format Name,Justification for Deprecation
+NF00214,Internet Message Format,Replaced with entries for individual email formats.
+NF00279,Microsoft Office 2007 Open XML,"Replaced with entries specific to Microsoft applications (PowerPoint, Excel, Word)."
+NF00281,Microsoft Outlook Personal Folder,Replaced with entries for ANSI 1997-2002 (NF00282) and Unicode 2003-2007 (NF00283).
+NF00301,Microsoft Windows Internet Shortcut,Replaced with Uniform Resource Locator Shortcut File (NF00430).
+NF00313,Microsoft Word Office,Replaced with entires specific to versions of Word.
+NF00338,MPEG-4 Advanced Audio Coding,"Replaced with entries for Advanced Audio Coding MPEG-4 Low Complexity Object (NF00108), MPEG-4 File Format, V.2, with Advanced Audio Coding (NF00107) since advanced audio encoding could be for audio only or for audio with video. "
+NF00444,Windows Bitmap Raw Stream,"Could not find any information on a format by this exact name. Have other Bitmaps, including Raw Bitmap, included."
