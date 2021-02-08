@@ -34,7 +34,7 @@ For a more technical discussion of the development and use of the Risk and Prior
 ## File Format Preservation Action Plans
 We are also sharing our File Format Preservation Action Plans.
 
-These plans consist of two types of documentation. The first is the Essential Characteristics documentation for multiple categories of electronic records. The 16 electronic record type categories are:
+These plans consist of two types of documentation. The first is the Essential Characteristics documentation for multiple categories of electronic records. The 17 electronic record type categories are:
 * CAD, Digital Design, or Vector Graphics
 * Digital Audio
 * Digital Still Image
@@ -43,6 +43,7 @@ These plans consist of two types of documentation. The first is the Essential Ch
 * Moving Image: Digital Cinema
 * Moving Image: Digital Video
 * Multimedia
+* Navigational Charts
 * Presentation and Publishing
 * Software and Code
 * Structured Data: Calendars
