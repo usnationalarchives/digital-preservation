@@ -1,5 +1,5 @@
 # U.S. National Archives and Records Administration Digital Preservation Framework
-The National Archives and Records Administration is releasing its Digital Preservation Framework, which consists of a Risk and Prioritization Matrix and File Format Preservation Action Plans.
+The National Archives and Records Administration Digital Preservation Framework consists of a Risk and Prioritization Matrix and File Format Preservation Action Plans.
 
 ## Background
 The National Archives 2018–2022 Strategic Plan embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, NARA must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
@@ -8,10 +8,10 @@ Digital preservation is critical to this work. It becomes even more important be
 
 Our digital preservation subject matter experts, led by Director of Digital Preservation Leslie Johnston, have been hard at work to prepare the National Archives for this change. They have formalized a set of documents that describe how we identify risks to digital files and prioritize them for action, and created specific plans for the preservation of these many file formats.
 
-NARA holds several billion files representing more than 500 file format versions. These files can be categorized into 17 general records types or categories of electronic records. The vast majority are email messages, followed by JPEG and TIFF images and plain ASCII text.
+NARA holds several billion files representing more than 500 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
 
 ## The NARA Risk and Prioritization Matrix
-NARA uses the Risk and Prioritization Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we will receive in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
+NARA uses the Risk and Prioritization Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
 
 The sustainability factors each have a different level of impact (positive or negative) on a format’s risk level, with several high-impact factors having the greatest effect on the calculations.
 
@@ -23,26 +23,25 @@ High Impact Factors:
 
 The answers to all the questions have been assigned numeric values, which are used to calculate an overall Risk Rating and a general risk level which translates to: Low Risk, Moderate Risk, and High Risk.
 
-Additionally, NARA prioritizes formats in our holdings for preservation actions. The Prioritization Matrix is modeled on the traditional preservation model of Value/Use/Need. For our purposes, we use Need/Use/Readiness to determine our preservation priorities. The Risk Rating goes into the “Need” column, representing the Need for a preservation action. “Use” is represented by how common the format is in our holdings at the time of assessment, approximating the level of use of the format in the permanent records of the Federal Government. There is no way to map the “Value” of the holdings to individual file formats because record sets/series typically contain multiple file formats. Instead, we have replaced Value with Readiness, or the capacity for NARA to process and convert formats. We assess Readiness based on the general availability of tools for format migration that do not alter the content in unacceptable ways as well as our capacity to perform acceptable migrations.
+Additionally, NARA prioritizes formats in our holdings for preservation actions. The Prioritization assessment is modeled on the traditional preservation model of Value/Use/Need. For our purposes, we use Need/Use/Feasibility to determine our preservation priorities. The Risk Rating represents the “Need” for a preservation action. “Use” is represented by evaluating Prevalence: how common the format is in our holdings at the time of assessment, therefore approximating the level of use of the format in the permanent records of the Federal Government. There is no way to map the “Value” of the holdings to individual file formats because record sets/series typically contain multiple file formats. Instead, we have replaced Value with “Feasibility,” or the capacity for NARA to process and convert formats. We assess Feasibility based on the general availability of tools for format migration that do not alter the content in unacceptable ways as well as our capacity to perform acceptable migrations.
 
-For both the Risk and Prioritization, the lower the number, the greater the risk or need. It is possible for numbers to be negative integers.
+For both the assessment of Risk and Prioritization, the lower the NARA Total number, the greater the risk or need. It is possible for numbers to be negative integers.
 
-We are sharing our current completed matrix as a template for its use by any interested organizations.
+We are sharing our current completed matrix as a template for its use or adaptation by any interested organizations.
 
-For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: https://osf.io/ctw3g/.
+For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: https://osf.io/ctw3g/. Note that this discusses an earlier iteration than what is current.
 
 ## File Format Preservation Action Plans
 We are also sharing our File Format Preservation Action Plans.
 
-These plans consist of two types of documentation. The first is the Essential Characteristics documentation for multiple categories of electronic records. The 17 electronic record type categories are:
-* CAD, Digital Design, or Vector Graphics
+These plans consist of two types of documentation. The first is documentation for multiple categories of electronic records. The 16 categories are:
 * Digital Audio
+* Digital Design and Vector Graphics
 * Digital Still Image
 * Email
-* GIS
+* Geospatial
 * Moving Image: Digital Cinema
 * Moving Image: Digital Video
-* Multimedia
 * Navigational Charts
 * Presentation and Publishing
 * Software and Code
@@ -53,7 +52,7 @@ These plans consist of two types of documentation. The first is the Essential Ch
 * Textual and Word Processing
 * Web Records
 
-Each Plan corresponds to an electronic record type category and contains a list of “Essential Characteristics,” also known as “Significant Properties,” which identify the characteristics of a record (its Appearance, Behavior, Context, and Structure) that should, be retained, if at all possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
+Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
 
 The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 500 variant versions of file formats and identifies:
 * Categories of electronic records associated with the format
@@ -61,18 +60,18 @@ The second resource is the File Format Preservation Action Plan Spreadsheet. The
 * Proposed preservation migration actions to be taken by NARA, including no action when appropriate
 * Recommended tools for processing and preservation actions
 
-These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats in NARA holdings and variant versions, the current NARA risk assessment, processing capabilities, and tools in use at NARA.
+These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA.
 
 ## How Can You Participate?
 We are sharing these documents to be transparent about our approach to digital preservation and to share our current practices with Federal agencies, records managers, archivists, digital preservation professionals, researchers, private industry, other stakeholders and allied professionals, and members of the public to help us identify ways we can improve them.
 
 We always welcome feedback on the following topics:
 * What revisions can you suggest to the proposed processing and preservation actions for the formats?
-  * Are the Essential Characteristics for each record type comprehensive enough for digital preservation?
+  * Are the Significant Properties for each category comprehensive enough for digital preservation?
   * Are the proposed preservation actions for the formats technically appropriate?
 * Are there appropriate tools for processing and preservation migrations of specific formats that we do not have listed?
 * Are there other formats we haven’t identified that need plans?
 
 Please use the [issues feature](https://github.com/usnationalarchives/digital-preservation/issues) on this site to leave a specific comment or question or to just start a discussion. You can read more about how to contribute [here](https://github.com/usnationalarchives/digital-preservation/blob/master/CONTRIBUTING.md). NARA staff will respond as quickly as they can.
 
-We expect to update the matrix and plans spreadsheet on an ongoing basis in response to changing risks and new technologies and formats.
+We update the matrix and plans on an ongoing basis in response to changing risks and new technologies and formats.
