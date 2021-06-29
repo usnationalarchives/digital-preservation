@@ -8,7 +8,7 @@ Digital preservation is critical to this work. It becomes even more important be
 
 Our digital preservation subject matter experts, led by Director of Digital Preservation Leslie Johnston, have been hard at work to prepare the National Archives for this change. They have formalized a set of documents that describe how we identify risks to digital files and prioritize them for action, and created specific plans for the preservation of these many file formats.
 
-NARA holds several billion files representing more than 500 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
+NARA holds several billion files representing more than 650 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
 
 ## The NARA Risk and Prioritization Matrix
 NARA uses the Risk and Prioritization Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
