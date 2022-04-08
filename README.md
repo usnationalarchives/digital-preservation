@@ -62,6 +62,12 @@ The second resource is the File Format Preservation Action Plan Spreadsheet. The
 
 These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA.
 
+## Related Resources
+There are several related resources available from NARA about file formats:
+* [Transfer Guidance on Preferred and Acceptable File Formats](https://www.archives.gov/records-mgmt/policy/transfer-guidance.html) (file formats that NARA prefers to receive from agencies, but which is not 100% proscriptive)
+* [NARA Digitization Products and Service](https://www.archives.gov/preservation/products/) (file formats that NARA produces in its own internal digitization)
+* [NARA Digital Preservation Strategy](https://www.archives.gov/preservation/electronic-records/digital-preservation-strategy) (NARA’s approach to Digital Preservation)
+
 ## How Can You Participate?
 We are sharing these documents to be transparent about our approach to digital preservation and to share our current practices with Federal agencies, records managers, archivists, digital preservation professionals, researchers, private industry, other stakeholders and allied professionals, and members of the public to help us identify ways we can improve them.
 
