@@ -54,7 +54,7 @@ These plans consist of two types of documentation. The first is documentation fo
 
 Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
 
-The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 500 variant versions of file formats and identifies:
+The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 600 variant versions of file formats and identifies:
 * Categories of electronic records associated with the format
 * Specifications, standards, and documentation where possible; some have no specification or standard available
 * Proposed preservation migration actions to be taken by NARA, including no action when appropriate
