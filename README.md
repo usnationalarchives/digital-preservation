@@ -54,7 +54,7 @@ These plans consist of two types of documentation. The first is documentation fo
 
 Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
 
-The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 600 variant versions of file formats and identifies:
+The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 650 variant versions of file formats and identifies:
 * Categories of electronic records associated with the format
 * Specifications, standards, and documentation where possible; some have no specification or standard available
 * Proposed preservation migration actions to be taken by NARA, including no action when appropriate
@@ -64,6 +64,7 @@ These Plans are not exhaustive nor universally applicable proposed actions and r
 
 ## Related Resources
 There are several related resources available from NARA about file formats:
+* [Digital Preservation Framework Linked Open Data](https://www.archives.gov/preservation/digital-preservation/linked-data) (File Format Preservation Action Plans as linked data)
 * [Transfer Guidance on Preferred and Acceptable File Formats](https://www.archives.gov/records-mgmt/policy/transfer-guidance.html) (file formats that NARA prefers to receive from agencies, but which is not 100% proscriptive)
 * [NARA Digitization Products and Service](https://www.archives.gov/preservation/products/) (file formats that NARA produces in its own internal digitization)
 * [NARA Digital Preservation Strategy](https://www.archives.gov/preservation/electronic-records/digital-preservation-strategy) (NARA’s approach to Digital Preservation)
