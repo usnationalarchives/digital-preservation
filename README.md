@@ -2,7 +2,7 @@
 The National Archives and Records Administration Digital Preservation Framework consists of a Risk and Prioritization Matrix and File Format Preservation Action Plans.
 
 ## Background
-The National Archives 2018–2022 Strategic Plan embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, NARA must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
+The National Archives 2022–2026 Strategic Plan embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, NARA must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
 
 Digital preservation is critical to this work. It becomes even more important because of the June 2019 direction [(M-19-21, Transition to Electronic Records)](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-21.pdf) to Federal agencies to transition business processes and recordkeeping to a fully electronic environment and to end the National Archives’ acceptance of paper records by December 31, 2022.
 
