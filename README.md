@@ -4,11 +4,11 @@ The National Archives and Records Administration Digital Preservation Framework 
 ## Background
 The National Archives 2022–2026 Strategic Plan embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, NARA must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
 
-Digital preservation is critical to this work. It becomes even more important because of the June 2019 direction [(M-19-21, Transition to Electronic Records)](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-21.pdf) to Federal agencies to transition business processes and recordkeeping to a fully electronic environment and to end the National Archives’ acceptance of paper records by December 31, 2022.
+Digital preservation is critical to this work. It becomes even more important because of the June 2019 direction [(M-23-07, Update to Transition to Electronic Records)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) to Federal agencies to transition business processes and recordkeeping to a fully electronic environment and to end the National Archives’ acceptance of paper records by June 30, 2024.
 
 Our digital preservation subject matter experts, led by Director of Digital Preservation Leslie Johnston, have been hard at work to prepare the National Archives for this change. They have formalized a set of documents that describe how we identify risks to digital files and prioritize them for action, and created specific plans for the preservation of these many file formats.
 
-NARA holds several billion files representing more than 650 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
+NARA holds several billion files representing more than 700 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
 
 ## The NARA Risk and Prioritization Matrix
 NARA uses the Risk and Prioritization Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
