@@ -32,7 +32,7 @@ We are sharing our current completed matrix as a template for its use or adaptat
 For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: https://osf.io/ctw3g/. Note that this discusses an earlier iteration than what is current.
 
 ## File Format Preservation Action Plans
-We are also sharing our File Format Preservation Action Plans.
+We are also sharing our File Format Preservation Action Plans. These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA. These Plans apply to files once they have been deemed permanent for NARA's holdings; the appraisal guidelines for when a record is permanent is different for Congressional, Federal, and Presidential records.
 
 These plans consist of two types of documentation. The first is documentation for multiple categories of electronic records. The 16 categories are:
 * Digital Audio
@@ -54,13 +54,11 @@ These plans consist of two types of documentation. The first is documentation fo
 
 Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
 
-The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 650 variant versions of file formats and identifies:
+The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 700 variant versions of file formats and identifies:
 * Categories of electronic records associated with the format
 * Specifications, standards, and documentation where possible; some have no specification or standard available
 * Proposed preservation migration actions to be taken by NARA, including no action when appropriate
 * Recommended tools for processing and preservation actions
-
-These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA.
 
 ## Related Resources
 There are several related resources available from NARA about file formats:
