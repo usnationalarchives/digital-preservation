@@ -2,6 +2,48 @@
 
 Minor formatting changes are not included in the change log.
 
+## [2.14.0] - 2024-03-27
+
+### Added
+
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Added new entries:
+	- NF00841 - Micrografx Designer/Draw unspecified version
+	- NF00842 - Microsoft Project unspecified version
+	- NF00843 - PiCture eXchange (PCX) unspecified version
+	- NF00844 - Scalable Vector Graphics unspecified version
+	- NF00845 - SEG-Y rev 0
+	- NF00846 - American Standard Code for Information Interchange (ASCII) unspecified version
+	- NF00847 - Portable Executable unspecified version
+	- NF00848 - WordPerfect Graphics unspecified version
+	- NF00849 - Python Compiled Bytecode unspecified version
+	- NF00850 - eXtensible Style Language unspecified version
+	- NF00851 - Portable Document Format/Exchange (PDF/X) unspecified version
+	- NF00852 - PostScript unspecified version
+	- NF00853 - Microsoft PowerPoint Presentation OpenXML (Windows 2007-onwards) Macro-Enabled
+
+### Changed
+
+#### Record Categories
+- Updates to [Digital Design and Vector Graphics](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Design_Formats/NARA_PreservationActionPlan_DigitalDesignAndVectorGraphics_20240322.pdf) category plan:
+	- E57 and ODG now listed as preferred formats, reflecting NARA’s Transfer Guidance
+	- Formats Available for Public Access updated to reflect formats currently available through the National Archives Catalog
+	- Plan now includes language mapping the “Digital Design and Vector Graphics” category to the “Computer Aided Design” category in NARA’s Transfer Guidance
+- Updates to [Geospatial](https://github.com/usnationalarchives/digital-preservation/blob/master/Geospatial_Formats/NARA_PreservationActionPlan_Geospatial_20240322.pdf) category plan:
+	- Geopackage Encoding Standard now listed as preferred format, reflecting NARA’s Transfer Guidance
+	- SDTS now listed as an acceptable format for imminent transfer, reflecting NARA’s Transfer Guidance
+	- Formats Available for Public Access updated to reflect formats currently available through the National Archives Catalog
+- Updates to [Structured Data](https://github.com/usnationalarchives/digital-preservation/blob/master/Structured_Data_Formats/NARA_PreservationActionPlan_StructuredData_20240322.pdf) category plan:
+	- Function description added for Schema to note the importance of retaining associated files containing DTDs, schemas, and data dictionaries.
+	- Clarified that only unrestricted datasets are available through AAD
+	- Formats Available for Public Access updated to reflect formats currently available through the National Archives Catalog
+
+#### [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+- Reviewed and updated the “Feasibility” scores to align with NARA’s current practices and tools.
+
+#### [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Reviewed all LOC FDD mappings and updated links. Added PUIDs where possible. Updated other links as necessary. Reviewed and updated preservation plans and preferred tools as necessary.
+
 ## [2.13.0] - 2023-12-20
 
 ### Added
