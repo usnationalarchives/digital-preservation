@@ -11,7 +11,7 @@ Our digital preservation subject matter experts, led by Director of Digital Pres
 NARA holds several billion files representing more than 700 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
 
 ## The NARA Risk and Prioritization Matrix
-NARA uses the Risk and Prioritization Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
+NARA uses the [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
 
 The sustainability factors each have a different level of impact (positive or negative) on a format’s risk level, with several high-impact factors having the greatest effect on the calculations.
 
@@ -35,26 +35,26 @@ For a more technical discussion of the development and use of the Risk and Prior
 We are also sharing our File Format Preservation Action Plans. These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA. These Plans apply to files once they have been deemed permanent for NARA's holdings; the appraisal guidelines for when a record is permanent is different for Congressional, Federal, and Presidential records.
 
 These plans consist of two types of documentation. The first is documentation for multiple categories of electronic records. The 16 categories are:
-* Digital Audio
-* Digital Design and Vector Graphics
-* Digital Still Image
-* Email
-* Geospatial
-* Moving Image: Digital Cinema
-* Moving Image: Digital Video
-* Navigational Charts
-* Presentation and Publishing
-* Software and Code
-* Structured Data: Calendars
-* Structured Data: Databases
-* Structured Data: Generic
-* Structured Data: Spreadsheets
-* Textual and Word Processing
-* Web Records
+* [Digital Audio](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Audio_Formats)
+* [Digital Design and Vector Graphics](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Design_Formats)
+* [Digital Still Image](https://github.com/usnationalarchives/digital-preservation/tree/master/Still_Image_Formats)
+* [Email](https://github.com/usnationalarchives/digital-preservation/tree/master/Email_Formats)
+* [Geospatial](https://github.com/usnationalarchives/digital-preservation/tree/master/Geospatial_Formats)
+* [Moving Image: Digital Cinema](https://github.com/usnationalarchives/digital-preservation/tree/master/Moving_Image_Formats)
+* [Moving Image: Digital Video](https://github.com/usnationalarchives/digital-preservation/tree/master/Moving_Image_Formats)
+* [Navigational Charts](https://github.com/usnationalarchives/digital-preservation/tree/master/Navigational_Chart_Formats)
+* [Presentation and Publishing](https://github.com/usnationalarchives/digital-preservation/tree/master/Presentation_and_Publishing_Formats)
+* [Software and Code](https://github.com/usnationalarchives/digital-preservation/tree/master/Software_Formats)
+* [Structured Data: Calendars](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
+* [Structured Data: Databases](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
+* [Structured Data: Generic](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
+* [Structured Data: Spreadsheets](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
+* [Textual and Word Processing](https://github.com/usnationalarchives/digital-preservation/tree/master/Textual_and_Word_Processing_Formats)
+* [Web Records](https://github.com/usnationalarchives/digital-preservation/tree/master/Web_Formats)
 
 Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
 
-The second resource is the File Format Preservation Action Plan Spreadsheet. The spreadsheet covers over 700 variant versions of file formats and identifies:
+The second resource is the [File Format Preservation Action Plan Spreadsheet](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet). The spreadsheet covers over 700 variant versions of file formats and identifies:
 * Categories of electronic records associated with the format
 * Specifications, standards, and documentation where possible; some have no specification or standard available
 * Proposed preservation migration actions to be taken by NARA, including no action when appropriate
