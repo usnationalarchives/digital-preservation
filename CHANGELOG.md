@@ -2,6 +2,44 @@
 
 Minor formatting changes are not included in the change log.
 
+## [2.15.0] - 2024-09-27
+
+### Changed
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+Extensions were added or updated as necessary. 
+- Changed categories:
+  - NF00690 - Flash Local Shared Object (LSO) removed from [Presentation and Publishing](https://github.com/usnationalarchives/digital-preservation/tree/master/Presentation_and_Publishing_Formats) category and added to Software and Code category
+  - NF00248 - MET Metafile added to [Digital Design and Vector Graphics](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Design_Formats) category
+  - NF00596 - MPEG-1 Audio Layer 1 was removed from [Digital Video](https://github.com/usnationalarchives/digital-preservation/blob/master/Moving_Image_Formats/NARA_PreservationActionPlan_DigitalVideo_20220714.pdf) category
+  - NF00346 - OpenDocument Formula removed from [Textual and Word Processing](https://github.com/usnationalarchives/digital-preservation/tree/master/Textual_and_Word_Processing_Formats) category and added to Spreadsheets category
+  - NF00620 - vCalendar Electronic Calendaring and Scheduling Exchange Format added to [Calendars](https://github.com/usnationalarchives/digital-preservation/blob/master/Structured_Data_Formats/NARA_PreservationActionPlan_Calendars_20220714.pdf) category
+- Changed format name:
+  - NF00704 - Meta Raster Format (MRF) Index File, was Meta Raster Format
+  - NF00666 - Plotter file unspecified version, was Plotter file (unspecified version)
+  - NF00446 - Windows Media Audio with unspecified codec, was Windows Media Audio unspecified version
+  - NF00766 - Windows Media Video with unspecified codec, was Windows Media Video unspecified version
+  - NF00447 - Windows Media Video with Windows Media Video 9 (VC-1) Codec, was Windows Media Video 9 (VC-1)
+  - NF00627 - Windows Media Video with Windows Media Video 9 Advanced Profile (WVC1) Codec, was Windows Media Video 9 Advanced Profile (WVC1)
+
+#### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+187 formats had their risk level changed due to revisions to the risk assessment framework. A complete list of changes to the [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and resulting changes to formats’ risk levels can be found in the [Supporting Documentation folder](https://github.com/usnationalarchives/digital-preservation/tree/master/Supporting_Documentation). A summary of these changes can be found below:
+##### Format Risk Level Changes
+- **Low** to **Moderate**: 69 formats 
+- **Low** to **High**: 1 format: NF00735 - ASP.NET HTTP Handler File 
+- **Moderate** to **Low** : 26 formats 
+- **Moderate** to **High**: 46 formats  
+- **High** to **Moderate**: 45 formats 
+
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- NF00302 - Microsoft Word for Windows 6.0-95 had its preservation action changed from Retain to Transform.
+- NF00303 - Microsoft Word for Windows 97-2003 had its preservation action changed from Retain to Transform.
+- File format specification links were added or updated as necessary. 
+- Other links were updated as necessary. 
+- Description and Justification statements were updated as necessary.
+- Preferred processing and transformation tools were updated as necessary.
+
 ## [2.14.0] - 2024-03-27
 
 ### Added
