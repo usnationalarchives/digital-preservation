@@ -1,40 +1,64 @@
 # U.S. National Archives and Records Administration Digital Preservation Framework
-The National Archives and Records Administration Digital Preservation Framework consists of a Risk and Prioritization Matrix and File Format Preservation Action Plans.
+
+The National Archives and Records Administration Digital Preservation Framework consists of a Risk Matrix and Preservation Action Plans.
 
 ## Background
-The National Archives 2022–2026 Strategic Plan embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, NARA must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
 
-Digital preservation is critical to this work. It has become even more important because of the direction [(M-23-07, Update to Transition to Electronic Records)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) to Federal agencies to transition business processes and recordkeeping to a fully electronic environment. As of June 30, 2024, the National Archives no longer accepts paper records from Federal agencies, with limited exceptions.
+The National Archives [2022–2026 Strategic Plan](https://www.archives.gov/about/plans-reports/strategic-plan/strategic-plan-2022-2026) embraces the primacy of electronic records. Our vision is to ensure cutting-edge access to extraordinary volumes of government informa­tion and unprecedented engagement to bring greater meaning to the American experience. To do so, NARA must collaborate with other Federal agencies, the private sector, and the public to ensure records and archives thrive in a digital world.
 
-Our digital preservation subject matter experts, led by Director of Digital Preservation Leslie Johnston, have been hard at work to prepare the National Archives for this change. They have formalized a set of documents that describe how we identify risks to digital files and prioritize them for action, and created specific plans for the preservation of these many file formats.
+Digital preservation is critical to this work. It has become even more important because of the direction ([M-23-07, Update to Transition to Electronic Records](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf)) to Federal agencies to transition business processes and recordkeeping to a fully electronic environment. As of June 30, 2024, the National Archives no longer accepts paper records from Federal agencies, with limited exceptions.
 
-NARA holds several billion files representing more than 700 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, followed by JPEG and TIFF still images and plain ASCII text.
 
-## The NARA Risk and Prioritization Matrix
-NARA uses the [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
+NARA holds over one billion files representing more than 700 file format versions. These files can be categorized into 16 general categories of electronic records. The vast majority of files are email messages, JPEG and TIFF still images, PDFs, HTML, and plain ASCII text.
 
-The sustainability factors each have a different level of impact (positive or negative) on a format’s risk level, with several high-impact factors having the greatest effect on the calculations.
+The NARA Digital Preservation Unit created the Digital Preservation Framework in response to the current and anticipated volume of electronic records in NARA’s holdings. This set of documents describes how NARA identifies risks to digital files and prioritizes them for action, as well as how NARA plans for their long-term preservation. 
 
-High Impact Factors:
-* Positive:
-  * A high level of adoption; the availability of format documentation; the ability for a file to document itself; a lack of software dependencies; and no requirement for technical protections (such as encryption) provide the most positive impact.
-* Negative:
-  * Format age and required hardware and/or software dependencies have the most negative impact.
+The Digital Preservation Framework consists of:
+1. The NARA Risk Matrix
+2. File Format Preservation Action Plans
+3. Record Category Preservation Action Plans
 
-The answers to all the questions have been assigned numeric values, which are used to calculate an overall Risk Rating and a general risk level which translates to: Low Risk, Moderate Risk, and High Risk.
+These documents are actively maintained and updated on a quarterly basis, as NARA continues to research formats newly identified or newly accessioned into its holdings.
 
-Additionally, NARA prioritizes formats in our holdings for preservation actions. The Prioritization assessment is modeled on the traditional preservation model of Value/Use/Need. For our purposes, we use Need/Use/Feasibility to determine our preservation priorities. The Risk Rating represents the “Need” for a preservation action. “Use” is represented by evaluating Prevalence: how common the format is in our holdings at the time of assessment, therefore approximating the level of use of the format in the permanent records of the Federal Government. There is no way to map the “Value” of the holdings to individual file formats because record sets/series typically contain multiple file formats. Instead, we have replaced Value with “Feasibility,” or the capacity for NARA to process and convert formats. We assess Feasibility based on the general availability of tools for format migration that do not alter the content in unacceptable ways as well as our capacity to perform acceptable migrations.
+## The NARA Risk Matrix
 
-For both the assessment of Risk and Prioritization, the lower the NARA Total number, the greater the risk or need. It is possible for numbers to be negative integers.
+NARA uses the [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
 
-We are sharing our current completed matrix as a template for its use or adaptation by any interested organizations.
+The Risk Matrix is structured as a series of twenty-seven questions about each file format, organized by eight categories relating to risk and sustainability:
 
-For a more technical discussion of the development and use of the Risk and Prioritization Matrix, a conference paper presented at the 2018 iPRES International Digital Preservation meeting is available at: https://osf.io/ctw3g/. Note that this discusses an earlier iteration than what is current.
+1. Disclosure
+2. Adoption
+3. Transparency
+4. Self-Documentation
+5. External Hardware Dependencies
+6. External Software Dependencies
+7. Licensing and Patents
+8. Encryption and Rights Management
+
+The answers to all the questions have been assigned numeric values, which are used to calculate an overall numeric Risk Rating and a general Risk Level which translates to: Low Risk, Moderate Risk, and High Risk.
+
+The final questions in the Risk Matrix represent how NARA prioritizes formats in our holdings for preservation actions. We use Need/Use/Feasibility to determine our preservation priorities. The Risk Rating represents the "Need" for a preservation action. "Use" is represented by evaluating Prevalence: how common the format is in our holdings at the time of assessment, therefore approximating the level of use of the format in the permanent records of the Federal Government. "Feasibility" is measured as the capacity for NARA to process and convert formats. We assess Feasibility based on the general availability of tools for format migration that do not alter the content in unacceptable ways as well as our capacity to perform acceptable migrations.
+
+The Risk Matrix is [described in greater detail here](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Risk_Matrix/readme.md).
 
 ## File Format Preservation Action Plans
-We are also sharing our File Format Preservation Action Plans. These Plans are not exhaustive nor universally applicable proposed actions and recommended or endorsed tools: these represent file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA. These Plans apply to files once they have been deemed permanent for NARA's holdings; the appraisal guidelines for when a record is permanent is different for Congressional, Federal, and Presidential records.
+NARA publishes File Format Preservation Action Plans for all file formats represented in the Risk Matrix. These Plans identify actions that would enhance long-term preservation for a format type and documents NARA’s practices and preferred tools. However, they are not exhaustive nor universally applicable; actions may differ based on the file formats and variant versions in NARA holdings, the current NARA risk assessment, processing capabilities, and tools in use at NARA. These Plans apply to files once they have been deemed permanent for NARA's holdings; the appraisal guidelines for when a record is permanent is different for Congressional, Federal, and Presidential records.
 
-These plans consist of two types of documentation. The first is documentation for multiple categories of electronic records. The 16 categories are:
+These plans can be accessed in the [File Format Preservation Action Plan Spreadsheet](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet). The spreadsheet covers over 700 variant versions of file formats and identifies:
+
+* Categories of electronic records associated with the format
+* Specifications, standards, and documentation where possible; some have no specification or standard available
+* Proposed preservation migration actions to be taken by NARA, including no action when appropriate
+* Recommended tools for processing and preservation actions
+
+The Preservation Action Plans are also available as [linked open data](https://www.archives.gov/preservation/digital-preservation/linked-data) on archives.gov.
+
+## Record Category Preservation Action Plans
+
+NARA also maintains preservation action plans for categories of electronic records. Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
+
+The 16 categories are:
+
 * [Digital Audio](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Audio_Formats)
 * [Digital Design and Vector Graphics](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Design_Formats)
 * [Digital Still Image](https://github.com/usnationalarchives/digital-preservation/tree/master/Still_Image_Formats)
@@ -52,30 +76,35 @@ These plans consist of two types of documentation. The first is documentation fo
 * [Textual and Word Processing](https://github.com/usnationalarchives/digital-preservation/tree/master/Textual_and_Word_Processing_Formats)
 * [Web Records](https://github.com/usnationalarchives/digital-preservation/tree/master/Web_Formats)
 
-Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
+## File Format Extensions
 
-The second resource is the [File Format Preservation Action Plan Spreadsheet](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet). The spreadsheet covers over 700 variant versions of file formats and identifies:
-* Categories of electronic records associated with the format
-* Specifications, standards, and documentation where possible; some have no specification or standard available
-* Proposed preservation migration actions to be taken by NARA, including no action when appropriate
-* Recommended tools for processing and preservation actions
+NARA also publishes file extensions data from our holdings for potential reuse, such as to identify extensions to be researched further for file format identification. The extensions and counts provided are generated by combining reports from various preservation systems for Federal, Legislative, and Presidential electronic records. More information and the dataset can be [accessed here](https://github.com/usnationalarchives/digital-preservation/tree/master/File_Extensions).
 
 ## Related Resources
+
 There are several related resources available from NARA about file formats:
+
 * [Digital Preservation Framework Linked Open Data](https://www.archives.gov/preservation/digital-preservation/linked-data) (File Format Preservation Action Plans as linked data)
 * [Transfer Guidance on Preferred and Acceptable File Formats](https://www.archives.gov/records-mgmt/policy/transfer-guidance.html) (file formats that NARA prefers to receive from agencies, but which is not 100% proscriptive)
 * [NARA Digitization Products and Service](https://www.archives.gov/preservation/products/) (file formats that NARA produces in its own internal digitization)
 * [NARA Digital Preservation Strategy](https://www.archives.gov/preservation/electronic-records/digital-preservation-strategy) (NARA’s approach to Digital Preservation)
 
+## Publications and Presentations
+[All Risk is Local: File Format Risk Assessment In Two U.S. Government Contexts](https://ipres2024.pubpub.org/pub/xtwb1guc/). iPres International Digital Preservation Conference, 2024.
+
+[Creating a holdings format profile and format matrix for risk-based digital preservation planning at the National Archives and Records Administration](https://osf.io/ctw3g/). iPres International Digital Preservation Conference, 2018.
+
 ## How Can You Participate?
-We are sharing these documents to be transparent about our approach to digital preservation and to share our current practices with Federal agencies, records managers, archivists, digital preservation professionals, researchers, private industry, other stakeholders and allied professionals, and members of the public to help us identify ways we can improve them.
+
+We share these documents to be transparent about our approach to digital preservation and to communicate our current practices to Federal agencies, records managers, archivists, digital preservation professionals, researchers, private industry, allied professionals, and members of the public.
+
 
 We always welcome feedback on the following topics:
 * What revisions can you suggest to the proposed processing and preservation actions for the formats?
   * Are the Significant Properties for each category comprehensive enough for digital preservation?
   * Are the proposed preservation actions for the formats technically appropriate?
-* Are there appropriate tools for processing and preservation migrations of specific formats that we do not have listed?
-* Are there other formats we haven’t identified that need plans?
+* Are there appropriate tools for processing and preservation migrations of specific formats that we have not listed? Are any of the listed tools inappropriate or risky to use for the purposes we have identified?
+* Are there other formats we have not yet identified that need plans?
 
 Please use the [issues feature](https://github.com/usnationalarchives/digital-preservation/issues) on this site to leave a specific comment or question or to just start a discussion. You can read more about how to contribute [here](https://github.com/usnationalarchives/digital-preservation/blob/master/CONTRIBUTING.md). NARA staff will respond as quickly as they can.
 
