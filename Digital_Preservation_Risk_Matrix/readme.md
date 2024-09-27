@@ -139,6 +139,7 @@ Formats that cannot be rendered in more than one computing operating system are 
 If the software used to create the format is currently supported, this enhances NARA’s current ability to accession and process files in this format in the near-term, as it will be easier to troubleshoot any errors that arise during rendering or validation using current tools and/or documentation.
 
 ### Section 7: Licensing and Patents
+
 **7.1: Is the format subject to patent claims that may impede the development of open source tools for opening and managing the files?**
 
 Formats that are subject to patent claims typically have a higher preservation risk because the ability to open and manage the files is restricted to specific software and licensing applications. 
@@ -148,13 +149,17 @@ Formats that are subject to patent claims typically have a higher preservation r
 Open source licenses allow content to be used, modified, or shared. File formats that explicitly have open source license terms around their usage likely carry a low risk for litigation related to the usage of the file format and the creation of tools for processing and access.
 
 ### Section 8: Encryption and Rights Management
+
 **8.1: Does the format require the use of encryption?**
+
 Encryption restricts access and management of files because the file data is converted into ciphertext. When data is encrypted, a cipherkey is needed to access the file and the original information within, posing a challenge to long-term preservation unless the cipherkey is documented and known. 
 
 **8.2: If the format requires the use of encryption, is it robust (cryptographically secure)?**
+
 Robust (cryptographically secure) encryption provides an extremely high level of restriction to file access. Robust encryption can likely not be broken during archival processing, increasing the need to document and retain the cipherkey. Formats that require the use of robust encryption will be much more difficult to process and provide access to.
 
 **8.3: Does the format natively allow the use of technical protection measures (e.g. digital rights management)?**
+
 Technical protection measures, such as DRM, control access to copyrighted material. Files may require authentication to decrypt their contents, or there may be limitations on the number of devices used to access the contents of the file. Similar to other types of encryption, technical protection measures may prevent NARA from rendering the file for validation and processing, and they also inhibit long-term access to the content.
 
 ### Prioritization 
