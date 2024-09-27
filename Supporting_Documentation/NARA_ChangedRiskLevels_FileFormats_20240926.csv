@@ -1,0 +1,188 @@
+﻿NARA Format ID,Format Name,new risk level,old risk level
+NF00100,3DS Max,Moderate Risk,High Risk
+NF00102,Adaptive Multi Rate Audio (AMR),Moderate Risk,Low Risk
+NF00105,Adobe Photoshop,Low Risk,Moderate Risk
+NF00106,Advanced Audio Coding (AAC) MPEG-2 Audio,Moderate Risk,Low Risk
+NF00107,"MPEG-4 File Format, V.2, with Advanced Audio Coding",Moderate Risk,Low Risk
+NF00108,Advanced Audio Coding MPEG-4 Low Complexity Object,Moderate Risk,Low Risk
+NF00112,Internet Archive ARC,Moderate Risk,Low Risk
+NF00116,Audio Interchange Format with LPCM Audio,Moderate Risk,Low Risk
+NF00117,Audio Video Interleave Format (AVI),Moderate Risk,Low Risk
+NF00135,Binary file,Moderate Risk,High Risk
+NF00137,Btrieve 5.1,High Risk,Moderate Risk
+NF00142,Cold Fusion Markup Language,Low Risk,Moderate Risk
+NF00147,CorelDraw Drawing 8.0,Moderate Risk,High Risk
+NF00151,Data File,High Risk,Moderate Risk
+NF00152,db file: Paradox; Oracle; dBASE IV; dbvista; dBFast; XTreeGold; XoftSpySE,High Risk,Moderate Risk
+NF00153,dBase Table II,Moderate Risk,Low Risk
+NF00154,dBase Index File,Moderate Risk,Low Risk
+NF00158,Dictionary Lexicon File,High Risk,Moderate Risk
+NF00163,Drawing Interchange File Format ASCII 2010-2012,Low Risk,Moderate Risk
+NF00164,Drawing Interchange File Format ASCII 2004/2005/2006,Low Risk,Moderate Risk
+NF00165,Drawing Interchange File Format ASCII Generic,Low Risk,Moderate Risk
+NF00171,Encapsulated PostScript File Format 1.2,Moderate Risk,Low Risk
+NF00172,EndNote Import File,Moderate Risk,Low Risk
+NF00176,Exchangeable Image File Format Audio 2.2,Moderate Risk,Low Risk
+NF00189,eXtensible Metadata Platform,Moderate Risk,Low Risk
+NF00191,CCITT T.4 Group 3 compression (Fax image file),Low Risk,Moderate Risk
+NF00194,FoxPro 2.0,High Risk,Moderate Risk
+NF00197,Framework Database II,High Risk,Moderate Risk
+NF00201,Geospatial Tagged Image File Format (GeoTIFF),Moderate Risk,Low Risk
+NF00203,Graphics Interchange Format 89a,Moderate Risk,Low Risk
+NF00204,GZIP,Low Risk,Moderate Risk
+NF00210,Icon file format,Moderate Risk,High Risk
+NF00212,Initial Graphics Exchange Specification 5.x,Low Risk,Moderate Risk
+NF00215,Java Archive File,Moderate Risk,Low Risk
+NF00216,Java Source Code,Moderate Risk,Low Risk
+NF00217,JavaScript,Moderate Risk,Low Risk
+NF00220,JPEG File Interchange Format 1.00,Moderate Risk,Low Risk
+NF00227,Log File,Moderate Risk,Low Risk
+NF00233,Lotus 1-2-3 Chart,High Risk,Moderate Risk
+NF00235,Lotus Freelance 1-2.1,High Risk,Moderate Risk
+NF00240,MacPaint Graphics,Moderate Risk,High Risk
+NF00241,MacPaint Image,Moderate Risk,High Risk
+NF00257,Microsoft Active Server Page,Moderate Risk,Low Risk
+NF00258,Enhanced Metafile 1.0,Low Risk,Moderate Risk
+NF00272,Microsoft Excel Office Open XML,Moderate Risk,Low Risk
+NF00278,Microsoft Multiplan 4.0,High Risk,Moderate Risk
+NF00280,Microsoft Outlook Item,Moderate Risk,Low Risk
+NF00289,Microsoft PowerPoint Presentation OpenXML (Windows 2007-onwards),Moderate Risk,Low Risk
+NF00300,Microsoft Visio Drawing 2013,Moderate Risk,Low Risk
+NF00315,Microsoft Works Database for DOS 1.05,High Risk,Moderate Risk
+NF00316,Microsoft Works Database for DOS 1.12,High Risk,Moderate Risk
+NF00317,Microsoft Works Database for DOS 2.0,High Risk,Moderate Risk
+NF00318,Microsoft Works Database for DOS 3,High Risk,Moderate Risk
+NF00319,Microsoft Works Database for DOS 3a,High Risk,Moderate Risk
+NF00320,Microsoft Works Database for DOS 3b,High Risk,Moderate Risk
+NF00321,Microsoft Works Database for Macintosh 3,High Risk,Moderate Risk
+NF00322,Microsoft Works Database for Macintosh 4,High Risk,Moderate Risk
+NF00323,Microsoft Works Database for Windows 2.0,High Risk,Moderate Risk
+NF00324,Microsoft Works Database for Windows 2.0a,High Risk,Moderate Risk
+NF00325,Microsoft Works Database for Windows 2000,High Risk,Moderate Risk
+NF00326,Microsoft Works Database for Windows 3.0,High Risk,Moderate Risk
+NF00327,Microsoft Works Database for Windows 3.0a,High Risk,Moderate Risk
+NF00328,Microsoft Works Database for Windows 3.0b,High Risk,Moderate Risk
+NF00329,Microsoft Works Database for Windows 4,High Risk,Moderate Risk
+NF00330,Microsoft Works Database for Windows 4.0a,High Risk,Moderate Risk
+NF00331,Microsoft Works Database for Windows 4.5,High Risk,Moderate Risk
+NF00332,Microsoft Works Database for Windows 4.5a,High Risk,Moderate Risk
+NF00334,MHTML: MIME Encapsulation of Aggregate Documents,Moderate Risk,Low Risk
+NF00337,MPEG-2 Video,Moderate Risk,Low Risk
+NF00339,MPEG-4 Media File,Moderate Risk,Low Risk
+NF00341,Nikon Electronic Format RAW Image (NEF),Moderate Risk,High Risk
+NF00351,OS/2 Change Control File,High Risk,Moderate Risk
+NF00354,PaintShop Pro Image version 2,Moderate Risk,High Risk
+NF00355,PaintShop Pro Browser Cache File,Moderate Risk,High Risk
+NF00356,PCPaint Image,Moderate Risk,High Risk
+NF00358,PHP Script,Moderate Risk,Low Risk
+NF00375,Portable Document Format/Exchange (PDF/X) version 1:2001,Moderate Risk,Low Risk
+NF00376,Portable Document Format/Exchange (PDF/X) version 1a:2001,Moderate Risk,Low Risk
+NF00377,Portable Document Format/Exchange (PDF/X) version 1a:2003,Moderate Risk,Low Risk
+NF00378,Portable Document Format/Exchange (PDF/X) version 3:2002,Moderate Risk,Low Risk
+NF00379,Portable Document Format/Exchange (PDF/X) version 3:2003,Moderate Risk,Low Risk
+NF00380,32-bit Portable Executable file,Moderate Risk,High Risk
+NF00384,PostScript 2.0,Moderate Risk,Low Risk
+NF00385,PostScript 3.0,Moderate Risk,Low Risk
+NF00386,Adobe Type 1 PostScript Printer Font Binary,Moderate Risk,High Risk
+NF00393,QuickTime File Format (MOV),Moderate Risk,Low Risk
+NF00398,Rich Text Format 1.0,Low Risk,Moderate Risk
+NF00399,SAS Data File,High Risk,Moderate Risk
+NF00400,SAS for MS-DOS Database,High Risk,Moderate Risk
+NF00405,Scitex CT Image,Moderate Risk,High Risk
+NF00412,Stationery for Mac OS X,High Risk,Moderate Risk
+NF00418,Tab Separated Values,Moderate Risk,Low Risk
+NF00422,Tagged Image File Format for Internet Fax (TIFF-FX),Moderate Risk,Low Risk
+NF00424,Temp file,High Risk,Moderate Risk
+NF00426,Topologically Integrated Geographic and Encoding Referencing Files (TIGERLine),Moderate Risk,Low Risk
+NF00430,Uniform Resource Locator Shortcut File,Moderate Risk,Low Risk
+NF00431,Universal 3D,Low Risk,Moderate Risk
+NF00436,Vista Pro Graphics,High Risk,Moderate Risk
+NF00437,Video Object File,Moderate Risk,Low Risk
+NF00438,Waveform Audio File Format (WAVE) with LPCM Audio,Moderate Risk,Low Risk
+NF00449,Windows New Executable file,Moderate Risk,High Risk
+NF00459,Portable Document Format/Exchange (PDF/X) version 2:2003,Moderate Risk,Low Risk
+NF00462,Digital Cinema Package (DCP),Moderate Risk,Low Risk
+NF00468,Canon RAW 1.0,Moderate Risk,High Risk
+NF00469,Canon RAW 2.0,Moderate Risk,High Risk
+NF00470,FujiFilm RAW,Moderate Risk,High Risk
+NF00472,Kodak RAW,Moderate Risk,High Risk
+NF00473,Nikon RAW (NRW),Moderate Risk,High Risk
+NF00474,Olympus RAW,Moderate Risk,High Risk
+NF00475,Pentax RAW,Moderate Risk,High Risk
+NF00476,Sigma RAW,Moderate Risk,High Risk
+NF00477,Sony RAW,Moderate Risk,High Risk
+NF00478,CorelDraw Drawing 9.0,Moderate Risk,High Risk
+NF00484,Encapsulated PostScript File Format 2,Moderate Risk,Low Risk
+NF00485,Encapsulated PostScript File Format 3,Moderate Risk,Low Risk
+NF00488,CCITT T.6 Group 4 compression (Fax image file),Low Risk,Moderate Risk
+NF00491,JPEG File Interchange Format 1.01,Moderate Risk,Low Risk
+NF00493,JPEG Raw Stream,Moderate Risk,Low Risk
+NF00500,Enhanced Metafile 2.0,Low Risk,Moderate Risk
+NF00501,Enhanced Metafile 3.0,Low Risk,Moderate Risk
+NF00516,PaintShop Pro Image version 3,Moderate Risk,High Risk
+NF00517,PaintShop Pro Image version 4,Moderate Risk,High Risk
+NF00518,PaintShop Pro Image version 5,Moderate Risk,High Risk
+NF00519,PaintShop Pro Image version 6,Moderate Risk,High Risk
+NF00520,PaintShop Pro Image version 7,Moderate Risk,High Risk
+NF00521,PaintShop Pro Image version 8,Moderate Risk,High Risk
+NF00536,64-bit Portable Executable file,Moderate Risk,High Risk
+NF00538,Adobe Type 1 PostScript Adobe Font Metrics or Print Font Metrics File,Moderate Risk,High Risk
+NF00541,Btrieve 6.0,High Risk,Moderate Risk
+NF00542,Btrieve 6.1,High Risk,Moderate Risk
+NF00549,CorelDraw Compressed Drawing,Moderate Risk,High Risk
+NF00550,CouchDB,Low Risk,Moderate Risk
+NF00551,dBase Table for Windows 5,Moderate Risk,Low Risk
+NF00552,dBase Table III,Moderate Risk,Low Risk
+NF00553,dBase Table III+,Moderate Risk,Low Risk
+NF00554,dBase Table IV,Moderate Risk,Low Risk
+NF00555,dBase Table V,Moderate Risk,Low Risk
+NF00564,FoxPro 2.5,High Risk,Moderate Risk
+NF00565,FoxPro 2.6,High Risk,Moderate Risk
+NF00578,Kodak Cineon,Moderate Risk,High Risk
+NF00582,Mathematica Computable Document Format,High Risk,Moderate Risk
+NF00583,Microsoft ASP.NET,Moderate Risk,Low Risk
+NF00594,BSON,Moderate Risk,Low Risk
+NF00607,Rich Text Format 1.2,Low Risk,Moderate Risk
+NF00608,Rich Text Format 1.3,Low Risk,Moderate Risk
+NF00610,Rich Text Format 1.5,Low Risk,Moderate Risk
+NF00611,Rich Text Format 1.6,Low Risk,Moderate Risk
+NF00613,Rich Text Format 1.8,Low Risk,Moderate Risk
+NF00614,Rich Text Format 1.9,Low Risk,Moderate Risk
+NF00636,BSB,Low Risk,Moderate Risk
+NF00637,S-57 Electronic Navigation Chart,Moderate Risk,Low Risk
+NF00641,JPEG unspecified version,Moderate Risk,Low Risk
+NF00653,Encapsulated PostScript File Format unspecified version,Moderate Risk,Low Risk
+NF00692,National Imagery Transmission Format 1.0,Moderate Risk,Low Risk
+NF00693,National Imagery Transmission Format 1.1,Moderate Risk,Low Risk
+NF00694,National Imagery Transmission Format 2.0,Moderate Risk,Low Risk
+NF00695,National Imagery Transmission Format 2.1,Moderate Risk,Low Risk
+NF00699,SAP BusinessObjects Report,High Risk,Moderate Risk
+NF00701,Corel Print House version 5,Moderate Risk,High Risk
+NF00710,Data List File,High Risk,Moderate Risk
+NF00712,InstallShield installer archive,Moderate Risk,High Risk
+NF00713,Broderbund The Print Shop Letterhead,Moderate Risk,High Risk
+NF00714,Letter,High Risk,Moderate Risk
+NF00715,Media Package File,High Risk,Moderate Risk
+NF00719,Microsoft Font File,Moderate Risk,High Risk
+NF00721,HLM Multivariate Data Matrix Format,High Risk,Moderate Risk
+NF00725,Command manual,Moderate Risk,Low Risk
+NF00731,Microsoft ASP.NET User Control File,Moderate Risk,Low Risk
+NF00734,Backup File,Moderate Risk,High Risk
+NF00735,ASP.NET HTTP Handler File,High Risk,Low Risk
+NF00737,Microsoft Type Library,Moderate Risk,High Risk
+NF00755,Wavefront 3D Object File,Moderate Risk,Low Risk
+NF00756,WinHelp File Table of Contents,High Risk,Moderate Risk
+NF00757,Windows Installer Package,Moderate Risk,High Risk
+NF00764,National Imagery Transmission Format unspecified version,Moderate Risk,Low Risk
+NF00768,Enhanced Metafile unspecified version,Low Risk,Moderate Risk
+NF00769,A86 assembler source code file,Moderate Risk,High Risk
+NF00775,HTML Components,Moderate Risk,Low Risk
+NF00779,Unspecified encrypted or encoded (.enc) file,Moderate Risk,High Risk
+NF00784,dBase Table unspecified version,Moderate Risk,Low Risk
+NF00790,CompeGPS Land Track file,High Risk,Moderate Risk
+NF00792,Portable Document Format (PDF) Portfolio 1.7,Low Risk,Moderate Risk
+NF00793,Portable Document Format (PDF) Portfolio 2.0,Low Risk,Moderate Risk
+NF00804,QuarkXPress 3.2 for Macintosh,High Risk,Moderate Risk
+NF00817,Avid Pro Tools Session 5.1-6.9,Moderate Risk,High Risk
+NF00830,VRML97,Low Risk,Moderate Risk
+NF00840,Macromedia Freehand 8,Moderate Risk,High Risk
