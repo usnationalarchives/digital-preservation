@@ -138,7 +138,7 @@ Formats that cannot be rendered in more than one computing operating system are 
 
 If the software used to create the format is currently supported, this enhances NARA’s current ability to accession and process files in this format in the near-term, as it will be easier to troubleshoot any errors that arise during rendering or validation using current tools and/or documentation.
 
-### Section 7: Licensing and Patents
+### Section 7: Impact of Patents
 
 **7.1: Is the format subject to patent claims that may impede the development of open source tools for opening and managing the files?**
 
@@ -148,7 +148,7 @@ Formats that are subject to patent claims typically have a higher preservation r
 
 Open source licenses allow content to be used, modified, or shared. File formats that explicitly have open source license terms around their usage likely carry a low risk for litigation related to the usage of the file format and the creation of tools for processing and access.
 
-### Section 8: Encryption and Rights Management
+### Section 8: Technical Protection Mechanisms
 
 **8.1: Does the format require the use of encryption?**
 
