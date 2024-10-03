@@ -98,6 +98,7 @@ Formats that can contain declared or hidden embedded data (e.g., attached files 
 If the format provides standard information about the embedded data, NARA can more easily develop processes and/or tools to find and extract this embedded data.
 
 ### Section 4: Self-Documentation
+
 **4.1: Does the format natively include metadata that documents the file and the technical environment used to create (and/or modify) it?**
 
 Formats that natively include technical metadata about their creation will likely be easier to sustain and provide access to over time. For example, knowing the software that was used to create a file can help us determine how to render the file in a context similar to the one in which it was created. This technical metadata may also provide important provenance information that can help to maintain the authenticity and integrity of records.
