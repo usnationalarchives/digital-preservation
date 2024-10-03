@@ -32,8 +32,8 @@ The Risk Matrix is structured as a series of twenty-seven questions about each f
 4. Self-Documentation
 5. External Hardware Dependencies
 6. External Software Dependencies
-7. Licensing and Patents
-8. Encryption and Rights Management
+7. Impact of Patents
+8. Technical Protection Mechanisms
 
 The answers to all the questions have been assigned numeric values, which are used to calculate an overall numeric Risk Rating and a general Risk Level which translates to: Low Risk, Moderate Risk, and High Risk.
 
