@@ -2,7 +2,7 @@
 
 Minor formatting changes are not included in the change log.
 
-## [2.15.0] - 2024-09-27
+## [3.0.0] - 2024-09-27
 
 ### Changed
 
