@@ -16,8 +16,8 @@ To render an authentic digital video file one must preserve the structural and t
 
 Due to the variability and constant changes to most video file format specifications, some of the
 questions to consider when preserving video formats are:
-● How do different platform or cross compatibility issues come into play?
-● What tools are available to authenticate transforms from one format to another?
+- How do different platform or cross compatibility issues come into play?
+- What tools are available to authenticate transforms from one format to another?
 
 
 #### Appearance
