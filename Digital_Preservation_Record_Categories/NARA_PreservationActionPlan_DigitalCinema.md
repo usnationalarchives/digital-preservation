@@ -45,7 +45,7 @@ General requirements for digital video records: Digitize to standards  appropria
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:  
- - Digital Picture Exchange (DPX)
+   - Digital Picture Exchange (DPX)
 
 - Acceptable: 
 	- None Specified
