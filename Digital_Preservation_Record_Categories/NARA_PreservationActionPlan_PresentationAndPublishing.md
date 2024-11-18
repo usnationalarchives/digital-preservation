@@ -75,13 +75,13 @@ Questions which must be considered:
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - OpenDocument Presentation Format (ODP)
- - Portable Document Format/Archival (PDF/A-1)
+  - OpenDocument Presentation Format (ODP)
+  - Portable Document Format/Archival (PDF/A-1)
 
 - Acceptable: 
- - Microsoft Powerpoint 1997-2007 Binary Format (PPT)
- - Microsoft Powerpoint Open XML Format (PPTX)
- - PDF/A-2
+  - Microsoft Powerpoint 1997-2007 Binary Format (PPT)
+  - Microsoft Powerpoint Open XML Format (PPTX)
+  - PDF/A-2
 
 
 #### Current NARA Format(s) for Public Access and Reference for Presentation and Publishing
