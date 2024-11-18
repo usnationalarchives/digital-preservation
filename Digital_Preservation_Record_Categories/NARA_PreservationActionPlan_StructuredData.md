@@ -49,19 +49,19 @@ Structured data refers to any data that resides in a field within a record or fi
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Comma Separated Value (CSV)
- - OpenDocument Format Spreadsheet (ODS)
- - ASCII Text
- - Extensible Markup Language (XML)
- - JavaScript Object Notation (JSON)
- - Software Independent Archiving of Relational Databases (SIARD)
+  - Comma Separated Value (CSV)
+  - OpenDocument Format Spreadsheet (ODS)
+  - ASCII Text
+  - Extensible Markup Language (XML)
+  - JavaScript Object Notation (JSON)
+  - Software Independent Archiving of Relational Databases (SIARD)
 
 - Acceptable: 
- - Microsoft Excel Office Open XML 
- - Microsoft Excel 97 Binary Document Format (XLS)
+  - Microsoft Excel Office Open XML 
+  - Microsoft Excel 97 Binary Document Format (XLS)
 
 - Acceptable for Imminent Transfer:
- - Extended Binary Coded Decimal Interchange Code (EBCDIC)
+  - Extended Binary Coded Decimal Interchange Code (EBCDIC)
 
 
 
