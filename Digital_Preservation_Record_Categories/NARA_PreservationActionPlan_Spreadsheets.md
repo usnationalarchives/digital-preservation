@@ -60,13 +60,13 @@ Built-in tools such as macros with built in reports or external links are relate
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Comma Separated Value (CSV)
- - OpenDocument Format Spreadsheet (ODS)
- - ASCII Text
+  - Comma Separated Value (CSV)
+  - OpenDocument Format Spreadsheet (ODS)
+  - ASCII Text
 
 - Acceptable: 
- - Microsoft Excel Office Open XML 
- - Microsoft Excel 97 Binary Document Format 
+  - Microsoft Excel Office Open XML 
+  - Microsoft Excel 97 Binary Document Format 
 
 
 
