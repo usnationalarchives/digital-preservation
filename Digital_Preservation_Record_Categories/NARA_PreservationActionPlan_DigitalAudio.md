@@ -44,8 +44,8 @@ sample, but 24 bits per sample is encouraged; and transfer digital audio at a mi
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:  
- - Broadcast Wave (BWF) with LPCM Audio
- - Free Lossless Audio Codec (FLAC)
+   - Broadcast Wave (BWF) with LPCM Audio
+   - Free Lossless Audio Codec (FLAC)
 
 - Acceptable: 
 	- Audio Interchange Format (AIFF)
