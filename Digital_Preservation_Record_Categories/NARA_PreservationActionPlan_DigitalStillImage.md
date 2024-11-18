@@ -47,7 +47,7 @@ Appearance is a critical property for this category due to the common purpose or
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:  
- - Tagged Image File Format (TIFF)
+   - Tagged Image File Format (TIFF)
 
 - Acceptable: 
 	- JPEG File Interchange Format (JFIF) with Joint Photographic Experts Group
