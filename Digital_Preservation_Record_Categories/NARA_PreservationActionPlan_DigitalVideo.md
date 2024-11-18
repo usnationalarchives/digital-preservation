@@ -51,7 +51,7 @@ questions to consider when preserving video formats are:
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:  
- - Not specified
+   - Not specified
 
 - Acceptable: 
 	- Audio Video Interleaved Format (AVI)
