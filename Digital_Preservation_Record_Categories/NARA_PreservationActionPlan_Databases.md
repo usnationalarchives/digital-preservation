@@ -39,10 +39,10 @@ Database records require a documented data model describing what categories of d
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Comma Separated Value (CSV)
- - OpenDocument Format Spreadsheet (ODS)
- - ASCII Text
- - Software Independent Archiving of Relational Databases (SIARD)
+   - Comma Separated Value (CSV)
+   - OpenDocument Format Spreadsheet (ODS)
+   - ASCII Text
+   - Software Independent Archiving of Relational Databases (SIARD)
 
 - Acceptable: 
 	- Microsoft Excel Office Open XML 
