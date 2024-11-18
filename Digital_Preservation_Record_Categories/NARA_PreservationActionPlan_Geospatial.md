@@ -51,20 +51,20 @@ Appearance/Layout properties are essential to preserve the accuracy and meaning 
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Geospatial Tagged Image File Format
- - Geographic Markup Language
- - Topologically Integrated Geographic Encoding and Referencing Files
- - Keyhole Markup Language
- - Geopackage Encoding Standard
+  - Geospatial Tagged Image File Format
+  - Geographic Markup Language
+  - Topologically Integrated Geographic Encoding and Referencing Files
+  - Keyhole Markup Language
+  - Geopackage Encoding Standard
 
 - Acceptable: 
- - Vector Product Format
- - ESRI ARC/INFO Interchange File Format
- - TerraGo Geospatial PDF
- - ESRI Shapefile (Compound)
+  - Vector Product Format
+  - ESRI ARC/INFO Interchange File Format
+  - TerraGo Geospatial PDF
+  - ESRI Shapefile (Compound)
  
 - Acceptable for Imminent Transfer:
- - Spatial Data Transfer Standard (SDTS)
+  - Spatial Data Transfer Standard (SDTS)
 
 #### Current NARA Format(s) for Public Access and Reference for Geospatial
 
