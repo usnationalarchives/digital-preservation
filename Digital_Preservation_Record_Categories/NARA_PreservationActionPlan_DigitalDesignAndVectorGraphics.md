@@ -51,15 +51,15 @@ As a general rule, appearance properties for this record type are layout, fonts,
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Extensible 3D (X3D)
- - Standard for the Exchange of Product Model Data (STEP) 
- - ASTM E57 3D file format (E57) (Version 1.0)
- - OpenDocument Graphics Format (ODG)
+   - Extensible 3D (X3D)
+   - Standard for the Exchange of Product Model Data (STEP) 
+   - ASTM E57 3D file format (E57) (Version 1.0)
+   - OpenDocument Graphics Format (ODG)
 
 - Acceptable: 
- - Portable Document Format/Engineering (PDF/E)
- - Universal 3D (U3D)
- - Product Representation Compact (PRC)
+   - Portable Document Format/Engineering (PDF/E)
+   - Universal 3D (U3D)
+   - Product Representation Compact (PRC)
 
 
 
