@@ -90,11 +90,11 @@ The electronic navigational charts (ENC) standard supports the exchange of digit
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Electronic Navigational Chart (S/57)
- - Raster Navigational Chart (BSB)
+  - Electronic Navigational Chart (S/57)
+  - Raster Navigational Chart (BSB)
 
 - Acceptable: 
- - None specified
+  - None specified
 
 
 #### Current NARA Format(s) for Public Access and Reference for Navigational Charts
