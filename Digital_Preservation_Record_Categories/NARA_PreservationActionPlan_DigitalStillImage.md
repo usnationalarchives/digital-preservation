@@ -1,4 +1,4 @@
-# Preservation Action Plan for Moving Image/Digital Still Image Records
+# Preservation Action Plan for Digital Still Image Records
 ### National Archives and Records Administration (NARA)
 
 Plan Date: 20210525
