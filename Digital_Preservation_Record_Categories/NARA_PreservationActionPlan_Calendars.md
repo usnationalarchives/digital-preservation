@@ -42,10 +42,10 @@ Structure is generally the most important property to preserve in calendars.
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - iCalendar
+  -  iCalendar
 
-- Acceptable: 
- - None specified 
+- Acceptable:
+  -  None specified 
 
 
 #### Current NARA Format(s) for Public Access and Reference for Calendars
