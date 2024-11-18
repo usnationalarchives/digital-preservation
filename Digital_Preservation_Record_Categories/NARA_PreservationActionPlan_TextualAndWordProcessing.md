@@ -71,15 +71,15 @@ Questions which must be considered:
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - ASCII Text (7-bit)
- - Unicode Text (UTF-8, UTF-16)
- - OpenDocument Text Format (ODF) 1.0
- - PDF/A-1
- - PDF/A-2
+  - ASCII Text (7-bit)
+  - Unicode Text (UTF-8, UTF-16)
+  - OpenDocument Text Format (ODF) 1.0
+  - PDF/A-1
+  - PDF/A-2
 
 - Acceptable: 
- - PDF 1.0-1.7
- - Microsoft Word Office Open XML (DOCX)
+  - PDF 1.0-1.7
+  - Microsoft Word Office Open XML (DOCX)
   - Microsoft Word 97 Binary Document Format (DOC)
 
 
