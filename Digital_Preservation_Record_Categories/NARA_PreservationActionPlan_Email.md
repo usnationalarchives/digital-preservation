@@ -63,13 +63,13 @@ Appearance properties are not generally significant to email, with the possible 
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - EML (individual messages)
- - PST (folders)
- - MBOX (individual messages or folders)
+   - EML (individual messages)
+   - PST (folders)
+   - MBOX (individual messages or folders)
 
 - Acceptable: 
- - XML (individual messages)
- - MSG (individual messages)
+   - XML (individual messages)
+   - MSG (individual messages)
 
 #### Current NARA Format(s) for Public Access and Reference for Email
 
