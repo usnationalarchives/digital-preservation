@@ -53,12 +53,12 @@ Web content is either static or dynamic. The static portion of web content does 
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
- - Web ARChive Format (WARC) 1.0
- - Web ARChive Format (WARC) 1.1
- - Web Archive Collection Zipped (WACZ)
+  - Web ARChive Format (WARC) 1.0
+  - Web ARChive Format (WARC) 1.1
+  - Web Archive Collection Zipped (WACZ)
 
 - Acceptable: 
- - Archive File Format (ARC)
+  - Archive File Format (ARC)
 
 
 #### Current NARA Format(s) for Public Access and Reference for Web Records
