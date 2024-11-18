@@ -55,26 +55,27 @@ The Preservation Action Plans are also available as [linked open data](https://w
 
 ## Record Category Preservation Action Plans
 
-NARA also maintains preservation action plans for categories of electronic records. Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations.
+NARA also maintains preservation action plans for categories of electronic records. Each category has its own Plan that contains a list of “Significant Properties,” which identify the properties, or characteristics, of a record (its Appearance, Behavior, Context, and Structure) that should be retained, if possible, in any format migration. These characteristics are important to ensure the highest fidelity format record migrations. The Record Category Preservation Action Plans, and a template for their creation, can be [accessed here](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_Template.docx "accessed here"). 
 
 The 16 categories are:
 
-* [Digital Audio](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Audio_Formats)
-* [Digital Design and Vector Graphics](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Design_Formats)
-* [Digital Still Image](https://github.com/usnationalarchives/digital-preservation/tree/master/Still_Image_Formats)
-* [Email](https://github.com/usnationalarchives/digital-preservation/tree/master/Email_Formats)
-* [Geospatial](https://github.com/usnationalarchives/digital-preservation/tree/master/Geospatial_Formats)
-* [Moving Image: Digital Cinema](https://github.com/usnationalarchives/digital-preservation/tree/master/Moving_Image_Formats)
-* [Moving Image: Digital Video](https://github.com/usnationalarchives/digital-preservation/tree/master/Moving_Image_Formats)
-* [Navigational Charts](https://github.com/usnationalarchives/digital-preservation/tree/master/Navigational_Chart_Formats)
-* [Presentation and Publishing](https://github.com/usnationalarchives/digital-preservation/tree/master/Presentation_and_Publishing_Formats)
-* [Software and Code](https://github.com/usnationalarchives/digital-preservation/tree/master/Software_Formats)
-* [Structured Data: Calendars](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
-* [Structured Data: Databases](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
-* [Structured Data: Generic](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
-* [Structured Data: Spreadsheets](https://github.com/usnationalarchives/digital-preservation/tree/master/Structured_Data_Formats)
-* [Textual and Word Processing](https://github.com/usnationalarchives/digital-preservation/tree/master/Textual_and_Word_Processing_Formats)
-* [Web Records](https://github.com/usnationalarchives/digital-preservation/tree/master/Web_Formats)
+- [Digital Audio](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_DigitalAudio.md "Digital Audio")
+- [Digital Design and Vector Graphics](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_DigitalDesignAndVectorGraphics.md "Digital Design and Vector Graphics")
+- [Digital Still Image](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_DigitalStillImage.md "Digital Still Image")
+- [Email](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_Email.md "Email")
+- [Geospatial](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_Geospatial.md "Geospatial")
+- [Moving Image: Digital Cinema](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_DigitalCinema.md "Moving Image: Digital Cinema")
+- [Moving Image: Digital Video](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_DigitalVideo.md "Moving Image: Digital Video")
+- [Navigational Charts](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_NavigationalCharts.md "Navigational Charts")
+- [Presentation and Publishing](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_PresentationAndPublishing.md "Presentation and Publishing")
+- [Software and Code](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_SoftwareAndCode.md "Software and Code")
+- [Structured Data: Calendars](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_Calendars.md "Calendars")
+- [Structured Data: Databases](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_Databases.md "Structured Data: Databases")
+- [Structured Data: Generic](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_StructuredData.md "Structured Data: Generic")
+- [Structured Data: Spreadsheets](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_Spreadsheets.md "Structured Data: Spreadsheets")
+- [Textual And Word Processing](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_TextualAndWordProcessing.md "Textual And Word Processing")
+- [Web Records](https://github.com/usnationalarchives/digital-preservation/blob/master/Digital_Preservation_Record_Categories/NARA_PreservationActionPlan_WebRecords.md "Web Records")
+
 
 ## File Format Extensions
 
