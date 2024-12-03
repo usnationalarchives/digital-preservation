@@ -50,15 +50,15 @@ Structured data refers to any data that resides in a field within a record or fi
 
 - Preferred:
   - Comma Separated Value (CSV)
-  - OpenDocument Format Spreadsheet (ODS)
-  - ASCII Text
-  - Extensible Markup Language (XML)
+  - OpenDocument Format Spreadsheet (ODS, all versions)
+  - ASCII Text (7 bit)
+  - Extensible Markup Language (XML, version 1.1)
   - JavaScript Object Notation (JSON)
   - Software Independent Archiving of Relational Databases (SIARD)
 
 - Acceptable: 
   - Microsoft Excel Office Open XML 
-  - Microsoft Excel 97 Binary Document Format (XLS)
+  - Microsoft Excel 97 Binary Document Format (XLS, version 8.0)
 
 - Acceptable for Imminent Transfer:
   - Extended Binary Coded Decimal Interchange Code (EBCDIC)
