@@ -47,7 +47,7 @@ Appearance/Layout properties are essential to preserve the accuracy and meaning 
 | Descriptive Metadata |Geospatial records could contain, or link to, metadata that describe any attribute that can be displayed on a map, such as the Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata. The records may also be described by more specialized metadata profiles, such as the Metadata Standard for Shoreline Data. | All of the descriptive metadata employed by the record creator are presumed essential to the value of GIS records, because they are what make the records unique and meaningful.|
 
 
-#### Current NARA Transfer Guidance for Email
+#### Current NARA Transfer Guidance for Geospatial
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
@@ -56,12 +56,15 @@ Appearance/Layout properties are essential to preserve the accuracy and meaning 
   - Topologically Integrated Geographic Encoding and Referencing Files
   - Keyhole Markup Language
   - Geopackage Encoding Standard
+  - Seg-Y Rev 2.1 (Seismic Data)
 
 - Acceptable: 
   - Vector Product Format
   - ESRI ARC/INFO Interchange File Format
   - TerraGo Geospatial PDF
   - ESRI Shapefile (Compound)
+  - Seg-Y Rev 1.0 (Seismic Data)
+  - Seg-Y Rev 2.0 (Seismic Data)
  
 - Acceptable for Imminent Transfer:
   - Spatial Data Transfer Standard (SDTS)
