@@ -73,14 +73,14 @@ Questions which must be considered:
 - Preferred:
   - ASCII Text (7-bit)
   - Unicode Text (UTF-8, UTF-16)
-  - OpenDocument Text Format (ODF) 1.0
+  - OpenDocument Text Format (ODF, all versions) 
   - PDF/A-1
   - PDF/A-2
 
 - Acceptable: 
   - PDF 1.0-1.7
   - Microsoft Word Office Open XML (DOCX)
-  - Microsoft Word 97 Binary Document Format (DOC)
+  - Microsoft Word 97 Binary Document Format (DOC, version 8.0)
 
 
 #### Current NARA Format(s) for Public Access and Reference for Textual and Word Processing 
