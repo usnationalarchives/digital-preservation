@@ -51,23 +51,23 @@ Appearance/Layout properties are essential to preserve the accuracy and meaning 
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
-  - Geospatial Tagged Image File Format
-  - Geographic Markup Language
-  - Topologically Integrated Geographic Encoding and Referencing Files
-  - Keyhole Markup Language
-  - Geopackage Encoding Standard
-  - Seg-Y Rev 2.1 (Seismic Data)
+  - Geospatial Tagged Image File Format (version 1.8.2)
+  - Geographic Markup Language (versions 1.0 through 3.2)
+  - Topologically Integrated Geographic Encoding and Referencing Files (2006 Second Edition)
+  - Keyhole Markup Language (version 2.2)
+  - Geopackage Encoding Standard (version 1.3.1)
+  - Seg-Y Data Exchange rev 2.1 (Seismic Data)
 
 - Acceptable: 
   - Vector Product Format
   - ESRI ARC/INFO Interchange File Format
-  - TerraGo Geospatial PDF
-  - ESRI Shapefile (Compound)
-  - Seg-Y Rev 1.0 (Seismic Data)
-  - Seg-Y Rev 2.0 (Seismic Data)
+  - TerraGo Geospatial PDF (GeoPDF Encoding Best PracticeVersion 2.2)
+  - ESRI Shapefile (Compound, 1997-current version)
+  - Seg-Y Data Exchange rev 1.0 (Seismic Data)
+  - Seg-Y Data Exchange rev 2.0 (Seismic Data)
  
 - Acceptable for Imminent Transfer:
-  - Spatial Data Transfer Standard (SDTS)
+  - Spatial Data Transfer Standard (SDTS, all versions)
 
 #### Current NARA Format(s) for Public Access and Reference for Geospatial
 
