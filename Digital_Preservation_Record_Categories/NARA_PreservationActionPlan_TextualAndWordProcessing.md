@@ -5,7 +5,7 @@ Plan Date: 20231122
 Template: 202105
 
 #### Textual and Word Processing
-Records created through the use of a word processing or text processing tool. Examples include but are not limited to: Minutes of meetings, organizational charts, diaries, calendars, correspondence, reports, briefing books, legal opinions, and directives.  
+Textual and Word Processing records are created through the use of a word processing or text processing tool. Examples include but are not limited to: Minutes of meetings, organizational charts, diaries, calendars, correspondence, reports, briefing books, legal opinions, and directives.  
 
 
 #### Significant Properties of Textual and Word Processing
