@@ -5,15 +5,10 @@ Plan Date: 20240322
 Template: 202105
 
 #### Structured Data
-Delimited, fixed field, or marked-up structured data files.
-
-[NARA Transfer Guidance (Bulletin 2014-04)](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "NARA Transfer Guidance (Bulletin 2014-04)") includes general requirements for structured data transferred to NARA by federal agencies
-
-
+Structured data refers to any data that resides in a fixed field within a record or file. This can include data contained in relational databases, spreadsheets, or marked up text. Structured data may also be plain-text delimited.
 
 #### Significant Properties of Structured Data
-Structured data refers to any data that resides in a field within a record or file. This can include data contained in relational databases, spreadsheets, or marked up text. It requires a data model describing what categories of data will be stored in which fields, columns or tags, data types (numeric, currency, alphabetic, name, date, address), and controlled vocabulary.
-
+Structured data requires a data model describing what categories of data will be stored in which fields, columns or tags, data types (numeric, currency, alphabetic, name, date, address), and controlled vocabulary.
 
 #### Appearance
 | Name  | Definition  | Function Description  |
