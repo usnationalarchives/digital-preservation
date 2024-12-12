@@ -165,7 +165,7 @@ Technical protection measures, such as DRM, control access to copyrighted materi
 
 ### Prioritization 
 
-These questions do not count towards the Risk/Sustainability Factor. They are used to calculate the NARA Total, factoring in both risk and prioritization.
+These questions do not count towards the NARA Risk Level. They are used to calculate the NARA Total, factoring in both risk and prioritization.
 
 **Prevalence: Format Adoption Level**
 
