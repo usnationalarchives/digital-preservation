@@ -2,6 +2,60 @@
 
 Minor formatting changes are not included in the change log.
 
+## [3.1.0] - 2024-12-18
+
+### Added
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Entries added to the Framework:
+  - NF00853 - Microsoft PowerPoint Presentation OpenXML (Windows 2007-onwards) Macro-Enabled
+  - NF00854 - SEG-Y rev 1
+  - NF00855 - Microsoft Excel 5.0/95 Workbook
+  - NF00856 - Apple Mail Email File
+  - NF00857 - Filemaker Pro 3.0
+  - NF00858 - Filemaker Pro 5.0
+  - NF00859 - MPEG-1 Elementary Stream
+  - NF00860 - WebP Lossy
+  - NF00861 - Macintosh PICT 2.0
+  - NF00862 - AV1 Image File Format 1.1
+  - NF00863 - SEG-Y rev 2.0
+  - NF00864 - SEG-Y rev 2.1
+  - NF00865 - Adobe After Effects project (Binary Variant)
+  - NF00866 - Adobe After Effects project (XML Variant)
+
+#### Record Categories
+- Updated the Digital Audio category plan (see revision history for detailed changes)
+- Updated the Digital Cinema category plan (see revision history for detailed changes)
+- Updated the Digital Video category plan (see revision history for detailed changes)
+- Updated the Digital Still Image category plan (see revision history for detailed changes)
+
+### Changed
+- Made copies of record category actions plans available in Markdown
+- Rearranged Github folders and content
+- Made template for record category action plans available on GitHub
+- Age-related scoring factors were updated to reflect a new year
+- “Risk/Sustainability Factor Status” column on the Risk Matrix was changed to “NARA Risk Level” for consistency
+
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Renamed NF00160 - Digital Picture Exchange (DPX) 2.0, was Digital Picture Exchange (DPX)
+
+#### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+- Four formats had their risk level change:
+  - NF00853 - Microsoft PowerPoint Presentation OpenXML (Windows 2007-onwards) had its risk level change from Moderate to Low
+  - NF00393 - QuickTime File Format (MOV) had its risk level change from Moderate to Low
+  - NF00705 - Adobe AIR file had its risk level change from High to Moderate
+  - NF00770 - Microsoft Excel Template had its risk level change from Moderate to Low
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- NF00845 - SEG-Y rev 0 had its preservation action changed from Transform to Retain.
+
+### Deprecated
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Deprecated entries:
+  - NF00195, NF00274, NF00460, and NF00461. These ID numbers had been accidentally skipped and have never been used. The documentation is being updated to reflect the discovery of these omissions.
+
+
 ## [3.0.0] - 2024-09-27
 
 ### Changed
