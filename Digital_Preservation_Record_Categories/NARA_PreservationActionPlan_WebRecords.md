@@ -1,29 +1,31 @@
 # Preservation Action Plan for Web Records
 ### National Archives and Records Administration (NARA)
 
-Plan Date: 20230927
+Plan Date: 202503
+
 Template: 202105
 
 #### Web Records
-A collection of information, documents, or database that is sent from a server to a browser via Hypertext Transfer Protocol (HTTP) when a URL has been activated and meets the definition of Federal record and is provided via an agency’s web site.
+Web records are a collection of information, documents, or database records that are sent from a server to a browser via Hypertext Transfer Protocol (HTTP) when a Uniform Resource Locator (URL) has been activated.
 
-Component parts of web content may include other record types where it may be necessary to address the significant properties of those record and data types within a separate series of records. However, similar to the category “email,” when encountering another category within web records, they are not treated as a separate category.
+Though web records may include components that seemingly belong in other content categories (documents, databases, images, etc.), they are treated as a whole instead of separately. See the Preservation Action Plan for Email for similar treatment.
+
+Where possible, access should be provided in the native formats for the site as captured, which can include  HTML and all associated media sites and files required for look and feel. Web records may be provided in a container format, e.g., WARC or WACZ, for replay.
+
+This plan doesn’t currently explicitly include social media records.
 
 #### Significant Properties of Web Records
-The rapid evolution of the web, the complexity of the web, and the variety of ways agencies make use of it, limits defining properties only in the manner in which NARA can currently accept the transfer of web content.
+The presentation of web content is often changeable or mutable, based on variables such as a user’s browser preferences/permissions, browser characteristics (support for plug-ins, desktop vs. mobile presentation), or network limitations. The “replay” presentation of archived websites may also vary due to “leaks” from the live web, cookies, and lack of modern browser support for older web technologies such as Flash. When replaying archived websites, completeness may vary due to scoping parameters such as the depth of the crawl, inclusion or exclusion of multimedia, external links, etc.
 
-The presentation of web content, although it may be intended to be fixed, is most often changed or mutable, as is the content over time. The website’s appearance is variable, as it is altered for the user depending on user preferences, browser characteristics, network limitations, frequency, and topic of use.
+The Structure and Appearance/Layout are the most important properties. The manner in which elements are organized, interrelated, and displayed can be found in one or more of the following: source code, record layout, table and frame structure, linkage, site map, and hypertext.
 
-The Structure and Appearance/Layout are the most important properties. The manner in which elements are organized, interrelated, and displayed can be found in one or more of the following: source code, record layout, table and frame structure, and linkage, site map, and hypertext.
-
-Web content is either static or dynamic. The static portion of web content does not maintain additional behavior properties beyond hypertext/internal links. Dynamic “deep” web content is usually managed through the use of databases and style sheets, which are component parts of the web. If static, capturing the source code of web content generally will encompass content and aspects of the appearance, and structure properties. If dynamic, you may encounter another record category, such as a database. Defining properties for these component parts should be addressed within a separate series for that component and its record type.
-
+Web content is either static or dynamic. The static portion of web content does not maintain additional behavior properties beyond hypertext/internal links. Dynamic “deep” web content is usually managed through the use of databases and style sheets which are component parts of the Web. If static, capturing the source code of web content generally will encompass content and aspects of the appearance, and structure properties. If dynamic, you may encounter another record category such as a database. Not all records stored on the web are best preserved as a web record. Defining properties for these component parts should be addressed within a separate series for that component and its record type.
 
 #### Appearance
 | Name  | Definition  | Function Description  |
 | ------------ | ------------ | ------------ |
-|Layout/Inline |Inline or embedded layout and look and feel of page content. Includes but is not limited to: <br><br><ul><li>Style<li>Format Elements<li>Class<li>Heading<li>List<li>Table<li>Form<li>Canvas<li>SVG (Scalable Vector Graphics)<li>Client-side Script instructions|Part of the page/source code |
-| Layout/External| External file(s) that identifies layout and design elements, or are required for layout. Includes but is not limited to: <br><br><ul><li>Linked objects/files to be embedded in the layout, such as images, video, audio, dynamic or static output from external applications/APIs/web services<li>Server Scripts<li>Cascading Style Sheets| External to the page, must be captured to accurately capture full content and layout|
+|Layout/Inline |Inline or embedded layout and look and feel of page content. |Part of the page/source code. Includes but is not limited to: <br><br><ul><li>Style<li>Format Elements<li>Class<li>Heading<li>List<li>Table<li>Form<li>Canvas<li>SVG (Scalable Vector Graphics)<li>Client-side Script instructions|
+| Layout/External| External file(s) that identifies layout and design elements, or are required for layout. | External to the page, must be captured to accurately capture full content and layout. Includes but is not limited to: <br><br><ul><li>Linked objects/files to be embedded in the layout, such as images, video, audio, dynamic or static output from external applications/APIs/web services<li>Server Scripts<li>Cascading Style Sheets|
 
 
 #### Structure
@@ -37,14 +39,14 @@ Web content is either static or dynamic. The static portion of web content does 
 #### Behavior
 | Name  | Definition  | Function Description  |
 | ------------ | ------------ | ------------ |
-|Intended Function |The purpose, audience, and functionality of the site. |Accompanying documentation that describes the intended audience and functionality.|
+|Replay |Replay, or playback, refers to the presentation of archived web records as they existed on the live web at the time they were crawled, or otherwise captured. |Replay is done through a web browser using specialized web archives replay software.|
 
 
 
 #### Context
 | Name  | Definition  | Function Description  |
 | ------------ | ------------ | ------------ |
-|Descriptive Metadata |Information contained within the record (intrinsic) that refers to the intellectual content of material and aids discovery of such materials. Includes but is not limited to:<br><br>Title<br>Meta/Author<br>Meta/Description<br>Meta/Keywords<br>Caption/Subject/Date/Event/Transaction can all add value to the record.|Part of the page/source code |
+|Descriptive Metadata |Information contained within the record (intrinsic) that refers to the intellectual content of material and aids discovery of such materials. | Part of the page/source code. Includes but is not limited to:<br><br>Title<br>Meta/Author<br>Meta/Description<br>Meta/Keywords<br>Caption/Subject/Date/Event/Transaction can all add value to the record.|
 |Crawl/Capture Metadata |Metadata about a web capture (date, mechanism, etc.) needs to be preserved with the website. | |
 
 
@@ -53,23 +55,21 @@ Web content is either static or dynamic. The static portion of web content does 
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
 - Preferred:
-  - Web ARChive Format (WARC) 1.0
-  - Web ARChive Format (WARC) 1.1
-  - Web Archive Collection Zipped (WACZ)
+ - Web ARChive Format (WARC) 1.0
+ - Web ARChive Format (WARC) 1.1
+ - Web Archive Collection Zipped (WACZ)
 
 - Acceptable: 
-  - Archive File Format (ARC)
+ - Archive File Format (ARC)
 
 
 #### Current NARA Format(s) for Public Access and Reference for Web Records
 
-Formats for Public Access are those made available online through the National Archives Catalog. Formats for Reference are defined as those made available to researchers upon direct requests for digital copies.
+Formats for Public Access are those made available online through the National Archives Catalog and on the Congressional Web Harvest website. Formats for Reference are defined as those made available to researchers upon direct requests for digital copies.
 
-Format(s) Available for Public Access: Content created or delivered for public access in the Catalog is delivered primarily in the following file formats: PDF (Textual and Image), JPEG (Textual and Image), MP3 (Audio), and MP4 (Audio/Video) and ASCII (Datasets). Other file formats may be present depending on when they were added to the Catalog. For Legislative web content made available through the Center for Legislative Archives, public access is provided through https://www.webharvest.gov/
+Format(s) Available for Public Access: Content created or delivered for public access in the Catalog is delivered primarily in the following file formats: PDF (Textual and Image), JPEG (Textual and Image), MP3 (Audio), and MP4 (Audio/Video) and ASCII (Datasets). Other file formats may be present depending on when they were added to the Catalog. 
+
+The 2004 Federal Term Harvest and the Congressional Web Harvest (from 2006 to present), are made publicly accessible through https://www.webharvest.gov/.
 
 Format(s) Available for Reference: When available, records may be delivered to researchers in the formats in which they are preserved.
-
-#### Comments and Notes
-Where possible, access should be provided in the native formats for the site as captured, including HTML and all associated media sites and files required for look and feel. This can be provided in a container format, e.g., WARC or ARC. 
-
 
