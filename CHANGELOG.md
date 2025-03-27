@@ -2,6 +2,67 @@
 
 Minor formatting changes are not included in the change log.
 
+## [3.2.0] - 2025-03-28
+
+### Added
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+
+- Entries added to the Framework:
+  - NF00867 QuickTime Video with Apple ProRes 4444 Codec
+  - NF00868 MPEG Video unspecified version 
+  - NF00869 LightWave Layered Object (LWLO)
+  - NF00870 LightWave Object (LWOB)
+  - NF00871 OpenFlight Scene Description Database
+  - NF00872 Macintosh PICT 1.0
+  - NF00873 Lotus Improv Spreadsheet
+  - NF00874 OpenWayback CDXJ 1.0
+  - NF00875 Cascading Style Sheets 2.2
+
+#### Record Categories
+- Updated the Email category plan (see revision history for detailed changes)
+- Updated the Software and Code category plan (see revision history for detailed changes)
+- Updated the Structured Data/Calendars category plan (see revision history for detailed changes)
+- Updated the Web Records Image category plan (see revision history for detailed changes)
+
+
+### Changed
+
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Renamed NF00620 - vCalendar, was vCalendar Electronic Calendaring and Scheduling Exchange Format
+
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Updated Description and Justification statements for the following entries:
+  - NF00102 Adaptive Multi Rate Audio (AMR)
+  - NF00100 3DS Max
+  - NF00716 Signature Block
+  - NF00795 GeoPackage
+  - NF00160 Digital Picture Exchange (DPX) 2.0
+  - NF00462 Digital Cinema Package (DCP)
+  - NF00859 MPEG-1 Elementary Stream
+  - NF00336 MPEG-1 Program Stream
+  - NF00637 S-57 Electronic Navigation Chart
+  - NF00636 BSB
+  - NF00225 LaTeX Master Document
+  - NF00413 Statistica Report File
+  - NF00110 Apple Macintosh Desktop Services Store
+  - NF00700 Microsoft Compiled HTML Help
+  - NF00620 vCalendar
+  - NF00209 iCalendar
+  - NF00418 Tab Separated Values
+  - NF00582 Mathematica Computable Document Format
+  - NF00435 VisiCalc
+  - NF00439 Web ARChive (WARC) 1.0
+  - NF00623 Web ARChive (WARC) 1.1
+  - NF00796 Web Archive Collection Zipped (WACZ)
+  - NF00339 MPEG-4 Media File
+
+#### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+- Fixed formula error in Labeled view for Disclosure total (column M)
+
+
+
 ## [3.1.0] - 2024-12-18
 
 ### Added
