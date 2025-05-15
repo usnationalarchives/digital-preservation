@@ -51,14 +51,20 @@ Appearance properties are not generally significant to email, with the possible 
 #### Current NARA Transfer Guidance for Email
 [Bulletin 2014-04](https://www.archives.gov/records-mgmt/bulletins/2014/2014-04.html "Bulletin 2014-04")
 
-- Preferred:
- - Internet Message Format (EML) (individual messages)
- - Microsoft Personal Folders Format (PST) (folders)
- - MBOX Email Format (MBOX) (individual messages or folders)
+- Preferred Formats for Individual Messages:
+  - Internet Message Format (EML) 
+  - MBOX Email Format (MBOX)
+ 
+- Acceptable Formats for Individual Messages:
+  - Extensible Markup Language (XML). version 1.1
+  - Microsoft Outlook Item Message Format (MSG)
 
-- Acceptable: 
- - Extensible Markup Language (XML) (individual messages)
- - Microsoft Outlook Item Message Format (MSG) (individual messages)
+- Preferred Formats for Aggregations of Emails:
+  - Microsoft Personal Folders Format (PST) 2003 (Unicode)
+  - MBOX Email Format (MBOX)
+    
+- Acceptable for Imminent Transfer Formats: 
+   - Microsoft Personal Folders Format (PST) 1997-2002 (ANSI)
 
 #### Current NARA Format(s) for Public Access and Reference for Email
 
