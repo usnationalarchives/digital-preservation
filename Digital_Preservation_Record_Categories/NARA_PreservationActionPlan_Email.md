@@ -1,7 +1,7 @@
 # Preservation Action Plan for Email
 ### National Archives and Records Administration (NARA)
 
-Plan Date: 202503
+Plan Date: 202505
 
 Template: 202105
 
