@@ -45,7 +45,7 @@ Proprietary formats are formats for which the legal/licensing rights are exclusi
 
 **1.2: Does the format have a published open specification?**
 
-A published open specification details how a format and its metadata are structured, which enables validation of a file against its specification. It also may enable the reverse engineering of software and tools to render or execute a file format, if the original software no longer exists. Furthermore, it can be difficult to assess the other sustainability factors of a file format without a published open specification. Both non-proprietary and proprietary formats may have published open specifications.
+A published open specification details how a format and its metadata are structured, which enables validation of a file against its specification. It also may enable the reverse engineering of software and tools to render or execute a file format, if the original software no longer exists. Furthermore, it can be difficult to assess the other sustainability factors of a file format without a published open specification. Both non-proprietary and proprietary formats may have published open specifications. For the purposes of NARA's risk assessment and preservation planning, in many cases we consider unofficial and reverse engineered specifications as published open specifications.
 
 **1.3: If there is a published specification, has it been approved and published by an internationally recognized standards organization?**
 
