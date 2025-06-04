@@ -61,6 +61,7 @@ Appearance is a critical property for this category, given that the common purpo
 	- Digital Negative (DNG)
 	- Portable Network Graphics (PNG)
 	- JPEG2000 (JP2)
+   	- National Imagery Transmission Format (NITF) 2.0 and 2.1
 
 **Digitized Paper**
 - Preferred:
