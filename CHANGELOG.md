@@ -2,6 +2,89 @@
 
 Minor formatting changes are not included in the change log.
 
+## [3.3.0] - 2025-06-26
+
+### Added
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+
+- Entries added to the Framework:
+  - NF00876 MacOS XML Property List
+  - NF00877 MacOS Binary Property List
+  - NF00878 Microsoft Access Report SNaPshot
+  - NF00879 Waveform Audio File Format (WAVE) WAVEFORMATEXTENSIBLE
+  - NF00880 Avid Pro Tools Project Sessions versions 7-9.9
+  - NF00881 Avid Pro Tools Project Sessions versions 10 and above
+  - NF00882 3G2
+  - NF00883 Unicode Text (UTF-8)
+  - NF00884 Unicode Text (UTF-16)
+
+#### Record Categories
+- NF00282 Outlook Personal Folders (PST_ANSI) was changed from an acceptable format to an acceptable format for imminent transfer of email per the NARA Transfer Guidance. 
+- NF00694 National Imagery Transmission Format 2.0 and NF00695 National Imagery Transmission Format 2.1 were added as acceptable formats for transfer of born-digital photographs per the NARA Transfer Guidance.
+
+### Changed
+
+- NF00237, NF00238, NF00239 and NF00785, Lotus Notes Database versions 1-4 and unspecified, were added to the Email and Calendars Category Plans.
+- NF0010 3GP was added to the Digital Audio Category Plan.
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Renamed NF00101 Third Generation Partnership Project (3GPP) to 3GP
+- Renamed NF00107 MPEG-4 File Format, V.2, with Advanced Audio Coding to Advanced Audio Coding (AAC) with MPEG-4, V.2
+- Renamed NF00147 CorelDraw Drawing 8.0 to CorelDRAW 8
+- Renamed NF00148 Corel CMX Compressed to Corel Presentation Exchange
+- Renamed NF00149 CorelDraw Wavelet Image File to Corel Wavelet Compressed Bitmap
+- Renamed NF00164 Drawing Interchange File Format ASCII 2004/2005/2006 to Drawing Interchange File Format ASCII 2004-2006
+- Renamed NF00202 Graphics Interchange Format 87a to Graphics Interchange Format (GIF) 87a
+- Renamed NF00203 Graphics Interchange Format 89a to Graphics Interchange Format (GIF) 89a
+- Renamed NF00219 JPEG 2000 File Format to JPEG 2000, part 1
+- Renamed NF00220 JPEG File Interchange Format 1.00 to JPEG File Interchange Format (JFIF) 1.00
+- Renamed NF00282 Microsoft Outlook Personal Folders ANSI 1997-2002 to Outlook Personal Folders (PST_ANSI)
+- Renamed NF00283 Microsoft Outlook Personal Folders Unicode 2003-2007 to Outlook Personal Folders (PST_Unicode)
+- Renamed NF00334 MHTML: MIME Encapsulation of Aggregate Documents to MHTML
+- Renamed NF00412 Stationery for Mac OS x to Stationery for Apple Mail
+- Renamed NF00478 CorelDraw Drawing 9.0 to CorelDRAW 9
+- Renamed NF00491 JPEG File Interchange Format 1.01 to JPEG File Interchange Format (JFIF) 1.01
+- Renamed NF00492 JPEG File Interchange Format 1.02 to JPEG File Interchange Format (JFIF) 1.02
+- Renamed NF00498 Microsoft Access 2 to Microsoft Access 2.0
+- Renamed NF00549 CorelDraw Compressed Drawing to CorelDRAW Compressed File
+- Renamed NF00557 ESRI Shapefile (Arc/View Shapefile Index) to ESRI Shapefile (Arc/View Index)
+- Renamed NF00558 ESRI Shapefile (dBASE Table for ESRI Shapefile) to ESRI Shapefile (dBASE Table)
+- Renamed NF00559 ESRI Shapefile (ESRI Header Index) to ESRI Shapefile (Projection)
+- Renamed NF00560 ESRI Shapefile (ESRI Spatial Index File) to ESRI Shapefile (Spatial Index)
+- Renamed NF00653 Graphics Interchange Format unspecified version to Graphics Interchange Format (GIF) unspecified version
+- Renamed NF00657 Microsoft Outlook Personal Folders unspecified version to Outlook Personal Folders (PST) unspecified version
+- Renamed NF00701 Corel Print House version 5 to Corel Print House File
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Updated Description and Justification statements for 163 entries.
+- Changed preservation action plan from Transform to BWF to Retain:
+  - NF00106 Advanced Audio Coding (AAC) MPEG-2 Audio
+  - NF00107 MPEG-4 File Format, V.2, with Advanced Audio Coding
+  - NF00108 Advanced Audio Coding (AAC) MPEG-4 Low Complexity Object
+  - NF00335 MPEG-1 Audio Layer 3
+  - NF00596 MPEG-1 Audio Layer 1
+  - NF00597 MPEG Audio Layer 2
+- Changed preservation action plan from Transform to AVI to Retain:
+  - NF00337 MPEG-2 Video
+  - NF00339 MPEG-4 Media File
+  - NF00595 MPEG-4 Advanced Video Coding (H.264)
+  - NF00868 MPEG Video unspecified version
+- Changed preservation action plan from Further Research is Required to Retain, or as necessary convert to PNG:
+  - NF00210 Icon file format
+  - NF00687 Windows Cursor image file
+- Changed preservation action plan from Further Research is Required to Retain:
+  - NF00420 Tagged Image File Format for Electronic Photography (TIFF/EP)
+ 
+#### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+- One format had its risk level change:
+  - NF00612 - Rich Text Format 1.7 had its risk level change from Moderate to Low
+
+### Deprecated
+ #### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Deprecated entry:
+  - NF00429 American Standard Code for Information Interchange (ASCII), Extended, Variable-width encoding Unicode (Universal Coded Character Set) Transformation Format (UTF)
+
+
 ## [3.2.0] - 2025-03-28
 
 ### Added
