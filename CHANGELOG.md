@@ -2,7 +2,7 @@
 
 Minor formatting changes are not included in the change log.
 
-##[3.4.0] - 2025-09-10
+## [3.4.0] - 2025-09-10
 
 ### Added
 
