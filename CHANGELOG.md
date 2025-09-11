@@ -2,6 +2,42 @@
 
 Minor formatting changes are not included in the change log.
 
+##[3.4.0] - 2025-09-10
+
+### Added
+
+- No new entries were added to the Framework.
+
+### Changed
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Changed format name:
+  - NF00145, NF00546, NF00547, NF00548, NF00783 - removed “Binary” from the Computer Graphics Metafile format family
+  - NF00392 - Advanced Audio Coding (AAC) Quicktime, was QuickTime Audio with AAC codec
+  - NF00437 - Video Object, was Video Object File
+  - NF00448 - Windows Metafile, was Windows Metafile Image
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Updated Description and Justification statements for 105 entries.
+- Changed preservation plans:
+  - NF00241 - MacPaint Image from Transform to a TBD format to Transform to PNG, JPEG, or TIFF
+  - NF00258, NF00500, NF00501, NF00768 - Enhanced Metafile format family from Transform to Retain, or as necessary transform to a TBD format
+  - NF00397 - RealMedia metafile from Transform to MP3 or WAV for audio and AVI for video, to Transform to CSV
+  - NF00699  - SAP BusinessObjects Report from Transform to a TBD format to Further Research is Required
+  - NF00706 - Microsoft Word Auto-save Document Format from Depends on version, transform to Word or PDF to Transform to ODT or DOCX
+  - NF00811 - Windows Animated Cursor from Retain to Retain, or as necessary transform to GIF or ANPNG
+
+### Deprecated
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Deprecated entries:
+  - NF00240 - MacPaint Graphics (see NF00241 instead)
+  - NF00304 - Microsoft Word Backup File, version 97-onwards (see NF00303 instead)
+  - NF00307 - Microsoft Word for Macintosh 5.1 (see NF00303 instead)
+  - NF00587 - Microsoft Word for Macintosh v.X (see NF00303 instead)
+  - NF00773 - Atari ST Self-extracting file archive (mis-mapped file extension - see NF00820 instead for .tp extension)
+
+
 ## [3.3.0] - 2025-06-26
 
 ### Added
@@ -143,7 +179,6 @@ Minor formatting changes are not included in the change log.
 
 #### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
 - Fixed formula error in Labeled view for Disclosure total (column M)
-
 
 
 ## [3.1.0] - 2024-12-18
