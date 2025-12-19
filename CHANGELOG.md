@@ -2,6 +2,41 @@
 
 Minor formatting changes are not included in the change log.
 
+## [3.5.0] - 2025-12-18
+
+### Added
+
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+
+- Entries added to the Framework:
+  - NF00885 - Timestamp Reply
+
+### Changed
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Changed format name:
+  - NF00667-NF00675, NF00823-NF00827 - added “Artwork” to the name for the Adobe Illustrator Artwork format family
+  - NF00468 - Canon RAW (CRW), was Canon RAW 1.0
+  - NF00469 - Canon RAW 2 (CR2), was Canon RAW 2.0
+  - NF00471 - Kodak Digital Camera Format (KDC), was Kodak Photo-Enhancer
+  - NF00472 - Kodak Digital Camera RAW (DCR), was Kodak RAW
+  - NF00341 - Nikon Electronic Format (NEF), was Nikon Electronic Format RAW Image (NEF)
+  - NF00809 - Sony Alpha RAW (ARW), was Sony Alpha RAW 1.x
+  - NF00477 - Sony RAW (SRF), was Sony RAW
+
+#### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+- One format had its risk level change:
+  - NF00762 - Tagged Image File Format (TIFF) unspecified version - went from Low Risk to Moderate Risk in keeping with our practice to assign unspecified version entries with the lowest score given to another format of the same family, in this case NF00422 Tagged Image File Format for Internet Fax (TIFF-FX)
+ - Updated scoring on some other unspecified version entries; no other risk levels changed
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Updated Description and Justification statements for 41 entries.
+- Changed preservation plans:
+  - NF00171, NF00484, NF00485, NF00653 - Encapsulated PostScript format family from Transform to TIFF or JPEG2000 to Transform to PDF or TIFF
+  - NF00233 - Lotus 1-2-3 Chart from Transform to a TBD format to Further research is required
+  - NF00787, NF00788, NF00848 - WordPerfect Graphics format family from Further research is required to Transform to ODG
+
+
 ## [3.4.0] - 2025-09-10
 
 ### Added
