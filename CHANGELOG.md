@@ -30,7 +30,7 @@ Minor formatting changes are not included in the change log.
  - Updated scoring on some other unspecified version entries; no other risk levels changed
 
 #### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
-- Updated Description and Justification statements for 41 entries.
+- Updated Description and Justification statements for 56 entries.
 - Changed preservation plans:
   - NF00171, NF00484, NF00485, NF00653 - Encapsulated PostScript format family from Transform to TIFF or JPEG2000 to Transform to PDF or TIFF
   - NF00233 - Lotus 1-2-3 Chart from Transform to a TBD format to Further research is required
