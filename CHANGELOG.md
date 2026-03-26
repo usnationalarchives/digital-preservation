@@ -28,17 +28,17 @@ Minor formatting changes are not included in the change log.
 #### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
 - Updated Description and Justification statements for 63 entries.
 - Changed preservation plans:
- - NF00638 - High Efficiency Image File Format (HEIF) from Retain to Depends on features
- - NF00639 - High Efficiency Image File Format with HEVC compression (HEIC) from Retain to Depends on features
- - NF00813 - Multiresolution Seamless Image Database (MrSID) from Retain to Retain but also transform to JPEG
- - NF00860 - WebP Lossy from Further research is required to Retain
+  - NF00638 - High Efficiency Image File Format (HEIF) from Retain to Depends on features
+  - NF00639 - High Efficiency Image File Format with HEVC compression (HEIC) from Retain to Depends on features
+  - NF00813 - Multiresolution Seamless Image Database (MrSID) from Retain to Retain but also transform to JPEG
+  - NF00860 - WebP Lossy from Further research is required to Retain
 
 ### Deprecated
 
 #### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
 - Deprecated entries:
- - NF00568 - Hypertext Markup Language 1.1 (see NF00567 instead)
- - NF00622 - Visual FoxPro Database Table File 5 (see NF00784 and other FoxPro entries instead)
+  - NF00568 - Hypertext Markup Language 1.1 (see NF00567 instead)
+  - NF00622 - Visual FoxPro Database Table File 5 (see NF00784 and other FoxPro entries instead)
 
 ## [3.5.0] - 2025-12-18
 
