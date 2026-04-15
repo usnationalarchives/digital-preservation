@@ -1,0 +1,7 @@
+# 2024 NARA Risk Matrix Updates
+
+NARA uses the Risk Matrix to measure the preservation risk of digital file formats in our holdings and to assess formats we anticipate receiving in the future. By answering questions related to the ability to preserve and sustain a file format, we identify relative risk levels.
+
+In an effort to make the Risk Matrix more standardized, scalable, and better aligned with our current practices, the NARA Digital Preservation Unit performed a comprehensive review and update of all the questions and categories of questions. We made several different kinds of changes, including removing and condensing similar questions, updating the relative weights of questions, enforcing logic pathways for certain types of questions, and adding new questions to address additional risk factors that have emerged over the past decade since the initial version of the Matrix was drafted. These changes were available for public comment in May 2024. After reviewing and incorporating feedback, the updated version of the Risk Matrix was released in September 2024, encompassing the updates.
+
+For each category of questions, there is a table summarizing the questions, values assigned to each response, guidance on how the scorer should assign values, and a summary of updates made to the questions. Logic pathways are noted in italicized, bold question text. We have also documented questions that were removed.
