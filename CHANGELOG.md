@@ -329,7 +329,7 @@ Extensions were added or updated as necessary.
   - NF00627 - Windows Media Video with Windows Media Video 9 Advanced Profile (WVC1) Codec, was Windows Media Video 9 Advanced Profile (WVC1)
 
 #### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
-187 formats had their risk level changed due to revisions to the risk assessment framework. A complete list of changes to the [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and resulting changes to formats’ risk levels can be found in the [Supporting Documentation folder](https://github.com/usnationalarchives/digital-preservation/tree/master/Supporting_Documentation). A summary of these changes can be found below:
+187 formats had their risk level changed due to revisions to the risk assessment framework. A complete list of changes to the [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and resulting changes to formats’ risk levels can be found in the [2024 Risk Matrix Updates folder](https://github.com/usnationalarchives/digital-preservation/tree/master/Supporting_Documentation/2024_Risk_Matrix_Updates). A summary of these changes can be found below:
 ##### Format Risk Level Changes
 - **Low** to **Moderate**: 69 formats 
 - **Low** to **High**: 1 format: NF00735 - ASP.NET HTTP Handler File 
