@@ -2,6 +2,128 @@
 
 Minor formatting changes are not included in the change log.
 
+## [3.7.0] - 2026-10-21
+
+### Added
+
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+
+- Entries added to the Framework:
+  - NF00891 - Transport Neutral Encapsulation Format
+  - NF00892 - Topologically Integrated Geographic Encoding and Referencing Files (TIGER/Line) Shapefiles
+  - NF00893 - General Purpose RAW (GPR)
+  - NF00894 - OpenDocument Graphics 1.4
+  - NF00895 - OpenDocument Presentation 1.4 
+  - NF00896 - OpenDocument Spreadsheet 1.4 
+  - NF00897 - OpenDocument Text 1.4 
+  - NF00898 - Digital Negative Format 1.5 
+  - NF00899 - Digital Negative Format 1.6 
+  - NF00900 - Digital Negative Format 1.7 
+  - NF00901 - Portable Document Format/Archiving for Engineering (PDF/A-4e) 
+  - NF00902 - Portable Document Format/Archiving for Embedded Files (PDF/A-4f)
+  - NF00903 - Canon RAW 3 (CR3)
+  - NF00904 - Sassy Cascading Style Sheets
+  - NF00905 - Maya ASCII Scene File Format (.ma)
+  - NF00906 - Maya Binary Scene File Format (.mb)
+  - NF00907 - Maya Embedded Language Scripting File
+  - NF00908 - Adobe Captivate Cached Project 
+  - NF00909 - Glyph Interchange Format
+  - NF00910 - STereoLithography ASCII 
+  - NF00911 - STereoLithography Binary
+  - NF00912 - Adobe Captivate Project (.cp)
+  - NF00913 - Adobe Captivate Classic Project (.cptx) 
+  - NF00914 - Microstation CAD Drawing Bentley V8
+
+### Changed
+
+#### General changes to both the 1) [Risk and Prioritization Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Formats Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+
+- Changed format name:
+  - NF00105 - Adobe Photoshop Document, was Adobe Photoshop
+  - NF00134 - Batch File, was Batch Script
+  - NF00551 - dBASE 5 for Windows Table, was dBase Table for Windows 5
+  - NF00555 - dBASE 5 Table, was dBase Table V
+  - NF00153 - dBASE II Table, was dBase Table II
+  - NF00552 - dBASE III Table, was dBase Table III
+  - NF00553 - dBASE III+ Table, was dBase Table III+
+  - NF00554 - dBASE IV Table, was dBase Table IV
+  - NF00154 - dBASE Multiple Index, was dBase Index File
+  - NF00155 - dBASE or FoxBASE+ Database Memo, was dBASE or FoxBASE+ Text Memo
+  - NF00156 - Digital Equipment Corp (DEC) WPS Plus Document, was Digital Equipment Corp (DEC) WPS Plus
+  - NF00190 - eXtensible Stylesheet Language 1.0, was eXtensible Style Language 1.0
+  - NF00562 - eXtensible Stylesheet Language 2.0, was eXtensible Style Language 2.0
+  - NF00563 - eXtensible Stylesheet Language 3.0, was eXtensible Style Language 3.0
+  - NF00850 - eXtensible Stylesheet Language unspecified version, was eXtensible Style Language unspecified version
+  - NF00250 - Micrografx Draw 1-2, was Micrografx Draw 2.0
+  - NF00249 - Micrografx Draw 3.1, was Micrografx Designer 3.1
+  - NF00841 - Micrografx Draw unspecified version, was Micrografx Designer/Draw unspecified version
+  - NF00259 - Microsoft Excel 2.0, was Microsoft Excel 2.x
+  - NF00263 - Microsoft Excel 97-2003, was Microsoft Excel 97
+  - NF00665 - Microsoft Excel OOXML (Macro-Enabled) (Windows 2007), was Microsoft Excel Macro-enabled
+  - NF00272 - Microsoft Excel OOXML (Windows 2007-onwards), was Microsoft Excel Office Open XML
+  - NF00286 - Microsoft PowerPoint for Macintosh 4.0, was Microsoft PowerPoint for Macintosh 4.0-5.2
+  - NF00853 - Microsoft PowerPoint OOXML (Macro-Enabled) (Windows 2007-onwards), was Microsoft PowerPoint Presentation OpenXML (Windows 2007-onwards) Macro-Enabled
+  - NF00289 - Microsoft PowerPointOOXML (Windows 2007-onwards), was Microsoft PowerPoint Presentation OpenXML (Windows 2007-onwards)
+  - NF00502 - Microsoft Visio Drawing 2000-2002, was Microsoft Visio Drawing 2000
+  - NF00707 - Microsoft Visio Stencil, was Microsoft Visio Stencils
+  - NF00312 - Microsoft Word OOXML (Macro-Enabled) (Windows 2007-onwards), was Microsoft Word for Windows Macro 2007-onwards (OOXML)
+  - NF00311 - Microsoft Word OOXML (Windows 2007-onwards), was Microsoft Word for Windows 2007-onwards (OOXML)
+  - NF00589 - Microsoft Word OOXML Template (Macro-Enabled) (Windows 2007-onwards), was Microsoft Word Macro-enabled Document Template
+  - NF00346 - OpenFormula unspecified version, was OpenDocument Formula
+  - NF00400 - SAS Data File for MS-DOS, was SAS for MS-DOS Database
+  - NF00615 - SAS Transport File Format (xport) version 5, was SAS Transport File Format (xport) 5
+  - NF00616 - SAS Transport File Format (xport) version 8, was SAS Transport File Format (xport) for Windows 8.x
+  - NF00417 - Sun Raster, was Sun Raster Image
+  - NF00426 - Topologically Integrated Geographic Encoding and Referencing Files (TIGER/Line) ASCII, was Topologically Integrated Geographic and Encoding Referencing Files (TIGER/Line)
+  - NF00755 - Wavefront OBJ, was Wavefront 3D Object File
+  - NF00452-NF00455, NF00533, NF00633, NF00767, NF00838 - WordPerfect format family - added “Document” to format names
+
+#### [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Updated Description and Justification statements for 202 entries.
+- Updated PRONOM URL formatting for all entries.
+- Changed preservation action:
+  - NF00153, NF00551-NF00555 - dBASE Table Family - changed from Transform to Retain for Future Assessment
+  - NF00154 - dBASE Multiple Index - changed from Transform to Retain
+  - NF00155 - dBASE or FoxBASE+ Database Memo - changed from Transform to Retain
+  - NF00212 - Initial Graphics Exchange Specification 5.x - changed from Transform to Retain
+  - NF00728 - LuraDocument Format - changed from Retain to Retain for Future Assessment
+  - NF00244 - Maker Interchange Format - changed from Transform to Retain
+  - NF00853 - Microsoft PowerPoint OOXML (Macro-Enabled) (Windows 2007-onwards) - changed from Retain to Retain for Future Assessment
+  - NF00679-NF00684, NF00842 - Microsoft Project Family - changed from Retain to Transform
+  - NF00300 - Microsoft Visio Drawing 2013 - changed from Transform to Retain
+  - NF00707 - Microsoft Visio Stencil - changed from Retain to Transform
+  - NF00593 - MOBI ebook - changed from Retain to Transform
+  - NF00344 - OmniPage Pro Document 5-9 - changed from Transform to Retain for Future Assessment
+  - NF00405 - Scitex CT Image - changed from Transform to Retain for Future Assessment
+  - NF00432 - vCard - changed from Transform to Retain
+  - NF00850 - VRML97 - changed from Transform to Retain
+- Changed preservation plan:
+  - NF00168 - DVD Info File - changed from Retain to Create ISO of DVD to maintain original structure
+  - NF00503-NF00505 - Microsoft Visio Drawing (.vsd entries) - changed from Transform to PDF to Transform to VSDX or ODG
+  - NF00437 - Video Object - changed from Transform to AVI to: For DVDs, create ISO to maintain original DVD structure; For individual VOB files, transform to AVI or MP4
+
+#### [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix)
+- Two formats had their risk level change:
+  - NF00156 - Digital Equipment Corp (DEC) WPS Plus Document had its risk level change from Moderate to High
+  - NF00189 - eXtensible Metadata Platform had its risk level change from Moderate to Low
+
+### Deprecated
+
+#### General changes to both the 1) [Risk Matrix](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Risk_Matrix) and 2) [File Format Preservation Action Plans](https://github.com/usnationalarchives/digital-preservation/tree/master/Digital_Preservation_Plan_Spreadsheet)
+- Deprecated entries:
+  - NF00166 - DVD Data Backup File (see NF00168 - DVD Info File)
+  - NF00167 - DVD Data File
+  - NF00260 - Microsoft Excel 2000-2003 (see NF00263 - Microsoft Excel 97-2003)
+  - NF00265 - Microsoft Excel for Macintosh 2001 (see NF00263 - Microsoft Excel 97-2003)
+  - NF00266 - Microsoft Excel for Macintosh 2002 (see NF00263 - Microsoft Excel 97-2003)
+  - NF00267 - Microsoft Excel for Macintosh 2004 (see NF00263 - Microsoft Excel 97-2003)
+  - NF00268 - Microsoft Excel for Macintosh 3.0 (see NF00261 - Microsoft Excel 3.0)
+  - NF00269 - Microsoft Excel for Macintosh 4.0 (see NF00262 - Microsoft Excel 4.0)
+  - NF00270 - Microsoft Excel for Macintosh 98 (see NF00263 - Microsoft Excel 97-2003)
+  - NF00271 - Microsoft Excel for Macintosh v.X (see NF00263 - Microsoft Excel 97-2003)
+  - NF00285 - Microsoft PowerPoint for Macintosh 2001 (see NF00284 - Microsoft PowerPoint Presentation 97-2003)
+  - NF00504 - Microsoft Visio Drawing 2002 (see NF00503 - Microsoft Visio Drawing 2000-2002)
+
 ## [3.6.0] - 2026-03-20
 
 ### Added
